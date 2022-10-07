@@ -17,6 +17,7 @@ author_profile: true
 
 1. **K. Prasad**, A.Biswas, A.Kabra, and J. Mekie, “Energy and Area Efficient Column-Major IMC Architecture” (DAC 2022)
 
+\* Equaly Credited Authors
 <!-- 
 * Prasad, K.\*, Jha, C. K.\*, Srivastava, V. K., & Mekie, J. <a href="https://github.com/ConstantNIT/kailashprasad/blob/master/_pages/fpad.pdf" target="_blank">**FPAD: a Multistage Approximation Methodology for Designing Floating Point Approximate Dividers**</a> IEEE International Symposium on Circuits and Systems 2020, Seville, Spain May 17-20, 2020 \***Equal Contribution**
 
