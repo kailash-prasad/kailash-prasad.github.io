@@ -30,6 +30,7 @@ I am a PhD Scholar in the Discipline of Electrical Engineering at nanoDC Lab, [I
 
 | Timeline     | News                                           |
 | ------------ | ---------------------------------------------- |
+| October 2022 | 1 paper accepted at International VLSI Design & Embedded Systems Conference [VLSID 2023](https://vlsid.org/)
 | September 2022 | 1 paper accepted at Asia and South Pacific Design Automation Conference [ASP-DAC 2023](https://www.aspdac.com/aspdac2023/)
 | August 2022 | 1 paper accepted at ACM Transactions on Architecture and Code Optimization [TACO 2022](https://dl.acm.org/journal/taco)
 | June 2022 | 1 paper accepted at International Symposium on VLSI Design and Test [VDAT 2022](https://iitjammu.ac.in/vdat2022/)
