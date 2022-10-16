@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 ### Conference Publications
-1. **K. Prasad**,A.Srivastava, N.Baruah,  and J.Mekie "_Fast and Robust Sense Amplifier Design for Digital IMC_" (VLSID 2023)
+1. **K. Prasad**,A.Srivastava, N.Baruah,  and J.Mekie "_Fast and Robust Sense Amplifier Design for Digital IMC_" <span style="color:red">(VLSID 2023)</span>
 2. **K. Prasad\***, T.Glint\*, J.Dagli, K.Gandhi, A.Gupta, V.Patel, N.Shah and J. Mekie, “_Hardware-Software Codesign of DNN Accelerators using Approximate Posit Multipliers_” (ASPDAC 2023)
 3. **K.Prasad**, J.Dagli, N.Shah, M.Pidagannavar,  and J.Mekie “_Impact of approximation and commutativity on Neural Network and Image Processing Applications._” (VDAT 2022)
 4. **K. Prasad\***, A.Parmar\*, N.Rao, and J. Mekie, “_An Automated Approach to Compare Bit Serial and Bit Parallel In-Memory Computing for DNNs_” (ISCAS 2022)
