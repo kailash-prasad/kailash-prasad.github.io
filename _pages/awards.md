@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+* **Outstanding Graduate Teaching Fellow Award**, IIT Gandhinagar, Oct 2022
 * **Best Research Video Award**, DAC 2021, Nov-Dec 2021
 * **Chairman Gold Medal**, NIT Arunachal Pradesh, 2018
 * **Institute Gold Medal**, NIT Arunachal Pradesh, 2018
