@@ -31,6 +31,8 @@ I am a PhD Scholar in the Discipline of Electrical Engineering at nanoDC Lab, [I
 
 | Timeline     | News                                           |
 | ------------ | ---------------------------------------------- |
+| November 2022  | Paper Titled "Hardware-Software Codesign of DNN Accelerators using Approximate Posit Multipliers" to be presented at [ASP-DAC 2023](https://www.aspdac.com/aspdac2023/) has been nominated for Best Paper Award.
+| November 2022 | Proposal Titled "Fast and Efficient ML Hardware Accelerator Designs for SoCs with integrated FPGA" has been accepted to  [VLSID Design Contest 2023](https://vlsid.org/design-contest/)
 | October 2022  | Recieved Outstanding Graduate Teaching Fellow Award for Teaching IC Design Course
 | October 2022 | 1 paper accepted at International VLSI Design & Embedded Systems Conference [VLSID 2023](https://vlsid.org/)
 | September 2022 | 1 paper accepted at Asia and South Pacific Design Automation Conference [ASP-DAC 2023](https://www.aspdac.com/aspdac2023/)
