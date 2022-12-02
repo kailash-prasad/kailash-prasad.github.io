@@ -28,32 +28,31 @@ I am a PhD Scholar in the Discipline of Electrical Engineering at nanoDC Lab, [I
 
 <div class="datatable-begin"></div>
 
-
 | Timeline     | News                                           |
 | ------------ | ---------------------------------------------- |
-| Dec 2022 | Paper Titled "HyGain: High Performance, Energy-Efficient Hybrid Gain Cell based Cache Hierarchy" has been selected to appear in the [Association for Computing Machinery (ACM) Showcase on Kudos](https://www.growkudos.com/showcase/).
-| Nov 2022 | Paper Titled "PIC-RAM: Process-Invariant Capacitive Multiplier Based Analog In Memory Computing in 6T SRAM" has been accepted to Design Automation and Test in Europe Conference [DATE 2023](https://www.date-conference.com/). It has also been nominated for Best Paper Award.
-| Nov 2022 | Paper Titled "Hardware-Software Codesign of DNN Accelerators using Approximate Posit Multipliers" to be presented at [ASP-DAC 2023](https://www.aspdac.com/aspdac2023/) has been nominated for Best Paper Award.
-| Nov 2022 | Proposal Titled "Fast and Efficient ML Hardware Accelerator Designs for SoCs with integrated FPGA" has been accepted to  [VLSID Design Contest 2023](https://vlsid.org/design-contest/)
-| Oct 2022 | Recieved Outstanding Graduate Teaching Fellow Award for Teaching IC Design Course
-| Oct 2022 | 1 paper accepted at International VLSI Design & Embedded Systems Conference [VLSID 2023](https://vlsid.org/)
-| Sep 2022 | 1 paper accepted at Asia and South Pacific Design Automation Conference [ASP-DAC 2023](https://www.aspdac.com/aspdac2023/)
-| Aug 2022 | 1 paper accepted at ACM Transactions on Architecture and Code Optimization [TACO 2022](https://dl.acm.org/journal/taco)
-| Jun 2022 | 1 paper accepted at International Symposium on VLSI Design and Test [VDAT 2022](https://iitjammu.ac.in/vdat2022/)
-| Apr 2022 | Selected for DAC Young Fellow Program - [DAC 2022](https://www.dac.com/Attend/Students-Scholarships/Young-Student-Fellow-Program)
-| Apr 2022 | 2 works accepted for Poster Presentation at Design Automation Conference [DAC 2022](https://www.dac.com/)
-| Jan 2022 | Graduate Teaching Fellow (Instructor) for IC Design Lab at IIT Gandhinagar
-| Jan 2022 | 1 paper accepted at IEEE International Symposium on Circuits and Systems [ISCAS 2022](https://www.iscas2022.org/)
-| Dec 2021 | 1 paper accepted at IEEE International Symposium on Quality Electronic Design [ISQED 2022](https://www.isqed.org/)
-| Dec 2021 | Best Research Video Award at the [DAC 2021 Young Fellows Program](https://www.dac.com/Attend/Students-Scholarships/Young-Student-Fellow-Program) - [Link to the video](https://www.youtube.com/watch?v=TPSk2_oONNQ&t=34s&ab_channel=KailashPrasad)
-| Nov 2021 | Selected for DAC Young Fellow Program - [DAC 2021](https://www.dac.com/Attend/Students-Scholarships/Young-Student-Fellow-Program)
-| Sep 2021 | 1 paper accepted at IEEE International Conference on Electronics Circuits and Systems [ICECS 2021](https://www.ieeeicecs2021.com/)
-| Oct 2020 | Awarded the Prestigious Prime Minister's Research Fellowship ([PMRF](https://may2020.pmrf.in/)) 2020
-| Aug 2020 | Awarded the Prestigious Intel India Research Fellowship 2020
-| Apr 2020 | Learn Python Programming during this COVID 19 Pandemic. [Click Here](https://kailash-prasad.github.io/presentation/)
-| Jan 2020 | 2 papers accepted at  IEEE International Symposium on Circuits and Systems [ISCAS 2020](https://www.iscas2020.org/)
-| Jan 2020 | Awarded travel grant from VLSID to attend [VLSID 2020](http://embeddedandvlsidesignconference.org/)
-| May 2019 | Awarded travel grant from ACM SIGARCH to attend [ISCA 2019 and uArch Workshop](https://iscaconf.org/isca2019/index.html)
+| Dec-2022 | Paper Titled "HyGain: High Performance, Energy-Efficient Hybrid Gain Cell based Cache Hierarchy" has been selected to appear in the [Association for Computing Machinery (ACM) Showcase on Kudos](https://www.growkudos.com/showcase/).
+| Nov-2022 | Paper Titled "PIC-RAM: Process-Invariant Capacitive Multiplier Based Analog In Memory Computing in 6T SRAM" has been accepted to Design Automation and Test in Europe Conference [DATE 2023](https://www.date-conference.com/). It has also been nominated for Best Paper Award.
+| Nov-2022 | Paper Titled "Hardware-Software Codesign of DNN Accelerators using Approximate Posit Multipliers" to be presented at [ASP-DAC 2023](https://www.aspdac.com/aspdac2023/) has been nominated for Best Paper Award.
+| Nov-2022 | Proposal Titled "Fast and Efficient ML Hardware Accelerator Designs for SoCs with integrated FPGA" has been accepted to  [VLSID Design Contest 2023](https://vlsid.org/design-contest/)
+| Oct-2022 | Recieved Outstanding Graduate Teaching Fellow Award for Teaching IC Design Course
+| Oct-2022 | 1 paper accepted at International VLSI Design & Embedded Systems Conference [VLSID 2023](https://vlsid.org/)
+| Sep-2022 | 1 paper accepted at Asia and South Pacific Design Automation Conference [ASP-DAC 2023](https://www.aspdac.com/aspdac2023/)
+| Aug-2022 | 1 paper accepted at ACM Transactions on Architecture and Code Optimization [TACO 2022](https://dl.acm.org/journal/taco)
+| Jun-2022 | 1 paper accepted at International Symposium on VLSI Design and Test [VDAT 2022](https://iitjammu.ac.in/vdat2022/)
+| Apr-2022 | Selected for DAC Young Fellow Program - [DAC 2022](https://www.dac.com/Attend/Students-Scholarships/Young-Student-Fellow-Program)
+| Apr-2022 | 2 works accepted for Poster Presentation at Design Automation Conference [DAC 2022](https://www.dac.com/)
+| Jan-2022 | Graduate Teaching Fellow (Instructor) for IC Design Lab at IIT Gandhinagar
+| Jan-2022 | 1 paper accepted at IEEE International Symposium on Circuits and Systems [ISCAS 2022](https://www.iscas2022.org/)
+| Dec-2021 | 1 paper accepted at IEEE International Symposium on Quality Electronic Design [ISQED 2022](https://www.isqed.org/)
+| Dec-2021 | Best Research Video Award at the [DAC 2021 Young Fellows Program](https://www.dac.com/Attend/Students-Scholarships/Young-Student-Fellow-Program) - [Link to the video](https://www.youtube.com/watch?v=TPSk2_oONNQ&t=34s&ab_channel=KailashPrasad)
+| Nov-2021 | Selected for DAC Young Fellow Program - [DAC 2021](https://www.dac.com/Attend/Students-Scholarships/Young-Student-Fellow-Program)
+| Sep-2021 | 1 paper accepted at IEEE International Conference on Electronics Circuits and Systems [ICECS 2021](https://www.ieeeicecs2021.com/)
+| Oct-2020 | Awarded the Prestigious Prime Minister's Research Fellowship ([PMRF](https://may2020.pmrf.in/)) 2020
+| Aug-2020 | Awarded the Prestigious Intel India Research Fellowship 2020
+| Apr-2020 | Learn Python Programming during this COVID 19 Pandemic. [Click Here](https://kailash-prasad.github.io/presentation/)
+| Jan-2020 | 2 papers accepted at  IEEE International Symposium on Circuits and Systems [ISCAS 2020](https://www.iscas2020.org/)
+| Jan-2020 | Awarded travel grant from VLSID to attend [VLSID 2020](http://embeddedandvlsidesignconference.org/)
+| May-2019 | Awarded travel grant from ACM SIGARCH to attend [ISCA 2019 and uArch Workshop](https://iscaconf.org/isca2019/index.html)
 
 <div class="datatable-end"></div>
 
