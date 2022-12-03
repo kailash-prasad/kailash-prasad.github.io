@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 ### Conference Publications
-1. **K. Prasad**, A.Biswas, A.Kabra, and J. Mekie, “PIC-RAM: Process-Invariant Capacitive Multiplier Based Analog In Memory Computing in 6T SRAM” <span style="color:red">(DAC 2022)</span>
+1. **K. Prasad**, A.Biswas, A.Kabra, and J. Mekie, “PIC-RAM: Process-Invariant Capacitive Multiplier Based Analog In Memory Computing in 6T SRAM” <span style="color:red">(DATE 2023)</span>
 2. **K. Prasad**,A.Srivastava, N.Baruah,  and J.Mekie "_Fast and Robust Sense Amplifier Design for Digital IMC_" <span style="color:red">(VLSID 2023)</span>
 3. **K. Prasad\***, T.Glint\*, J.Dagli, K.Gandhi, A.Gupta, V.Patel, N.Shah and J. Mekie, “_Hardware-Software Codesign of DNN Accelerators using Approximate Posit Multipliers_” <span style="color:red">(ASPDAC 2023)</span>
 4. **K.Prasad**, J.Dagli, N.Shah, M.Pidagannavar,  and J.Mekie “_Impact of approximation and commutativity on Neural Network and Image Processing Applications._” <span style="color:red">(VDAT 2022)</span>
