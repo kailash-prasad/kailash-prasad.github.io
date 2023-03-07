@@ -31,6 +31,8 @@ I am a PhD Scholar in the Discipline of Electrical Engineering at nanoDC Lab, [I
 
 | Timeline     | News                                           |
 | ------------ | ---------------------------------------------- |
+| Mar-2023 | Awarded travel grant from DATE to attend [DATE 2023](https://www.date-conference.com/)
+| Jan-2023 | Paper Titled "Process Variation Resilient Current-Domain Analog In Memory Computing" has been accepted to Design Automation and Test in Europe Conference [DATE 2023](https://www.date-conference.com/).
 | Dec-2022 | PhD thesis extended abstract has been accepted to Design Automation and Test in Europe Conference [DATE'23 PhD Forum](https://www.date-conference.com/phd-forum-call-for-submission). 
 | Dec-2022 | Paper Titled "HyGain: High Performance, Energy-Efficient Hybrid Gain Cell based Cache Hierarchy" has been selected to appear in the [Association for Computing Machinery (ACM) Showcase on Kudos](https://www.growkudos.com/showcase/).
 | Nov-2022 | Paper Titled "PIC-RAM: Process-Invariant Capacitive Multiplier Based Analog In Memory Computing in 6T SRAM" has been accepted to Design Automation and Test in Europe Conference [DATE 2023](https://www.date-conference.com/). It has also been nominated for Best Paper Award.
