@@ -45,7 +45,7 @@ My belief in the importance of perseverance and determination can be summarized 
 | Jun-2023 | PhD thesis extended abstract has been accepted to Design Automation Conference [DAC'23 PhD Forum](https://www.dac.com/Attend/Students-Scholarships/PhD-Forum).
 | Apr-2023 | Paper Titled " PVC-RAM: Process Variation Aware Charge Domain In-Memory Computing 6T-SRAM for DNNs" has been accepted to Design Automation Conference [DAC 2023](https://www.dac.com/)
 | Apr-2023 | WiP Poster Titled "WA-PUF: Write-Assist Augmentation of Sequence Dependent SRAM PUF for Enhanced Randomness and Uniqueness" has been accepted to Design Automation Conference [DAC 2023](https://www.dac.com/)
-| Mar-2023 | Awarded travel grant from DATE to attend [DATE 2023](https://www.date-conference.com/)ACM SIGDA and IEEE CEDA
+| Mar-2023 | Awarded travel grant from DATE to attend [DATE 2023](https://www.date-conference.com/)
 | Jan-2023 | Paper Titled "Process Variation Resilient Current-Domain Analog In Memory Computing" has been accepted to Design Automation and Test in Europe Conference [DATE 2023](https://www.date-conference.com/).
 | Dec-2022 | PhD thesis extended abstract has been accepted to Design Automation and Test in Europe Conference [DATE'23 PhD Forum](https://www.date-conference.com/phd-forum-call-for-submission). 
 | Dec-2022 | Paper Titled "HyGain: High Performance, Energy-Efficient Hybrid Gain Cell based Cache Hierarchy" has been selected to appear in the [Association for Computing Machinery (ACM) Showcase on Kudos](https://www.growkudos.com/showcase/).
