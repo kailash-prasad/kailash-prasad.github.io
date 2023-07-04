@@ -97,19 +97,6 @@ My belief in the importance of perseverance and determination can be summarized 
 | May 17 - July 17 | IIT Kanpur | Student Research Associate | [Prof. Yogesh Singh Chauhan](http://home.iitk.ac.in/~chauhan/) | Topic : Compact Modelling and TCAD simulation of semiconductor devices.
 
 
-# Student Memberships
-
-* **ACM** Student Membership
-* **IEEE** Circuits and Systems Society Membership
-* **IEEE** Student Membership
-* **IEEE** Young Professionals
-
-# Skills
-
-* **EDA Tools**: Xilinx Vivado, Sentaurus TCAD, Design Compiler, VCS, MATLAB, Cadence Virtuoso, Calibre, Keil uVision, Custom Compiler, ModelSim
-* **Programming and Scripting Languages**: Python, Verilog, C, Bash, TCL, HTML/CSS
-* **Microcontrollers and Microprocessors**: Raspberry Pi 3, ARM7, Arduino, AVR, ARM Cortex M0, 8085
-
 # Courses Done
 
 * VLSI Design           
