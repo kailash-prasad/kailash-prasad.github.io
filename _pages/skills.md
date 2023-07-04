@@ -11,5 +11,19 @@ author_profile: true
 - **Sysadmin**: Managed lab/system infrastructure, ensuring optimal functionality and availability for efficient operations
 - **Leadership**: Lead teams of more than 14 members for two Tapeouts in UMC 65nm in 2020 ans 2022
 - **Mentorship**: Mentored more than 70 students, publishing with more than 15 students for work on circuit design, architecture, and tool design
+
+# Relevant Courses Done
+- VLSI Design
+- Asynchronous Circuit Design
+- Physics of Transistors
+- Computer Architecture
+- Machine Learning
+- MicroFabrication and Semiconductor Processes
+- Computer Networking
+- Microelectronics Lab
+- IC Design Lab
+- Analog IC Design
+- Mathematical Foundation for Computer Vision
+
  
 
