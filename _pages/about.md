@@ -95,18 +95,3 @@ My belief in the importance of perseverance and determination can be summarized 
 | Jan 22 - Apr 22 | IIT Gandhinagar |  Graduate Teaching Fellow | [Prof. Joycee Mekie](https://joycee.people.iitgn.ac.in/) | Course : IC Design Lab
 | Aug 18 - Present | IIT Gandhinagar |  Teaching Assistant | [Prof. Joycee Mekie](https://joycee.people.iitgn.ac.in/) |  Course : Digital System, Embedded System, Microelectronics Lab, Computer Organisation and Architecture, VLSI Design, IC Design
 | May 17 - July 17 | IIT Kanpur | Student Research Associate | [Prof. Yogesh Singh Chauhan](http://home.iitk.ac.in/~chauhan/) | Topic : Compact Modelling and TCAD simulation of semiconductor devices.
-
-
-# Courses Done
-
-* VLSI Design           
-* Physics of Transistors
-* MicroFabrication and Semiconductor Processes
-* Computer Architecture 
-* Machine Learning
-* CMOS Analog IC Design
-* Computer Networking
-* Microelectronics Lab  
-* IC Design Lab
-* Asynchronous Circuit Design
-* Mathematical Foundation for Computer Vision
