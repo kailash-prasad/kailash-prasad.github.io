@@ -90,7 +90,8 @@ My belief in the importance of perseverance and determination can be summarized 
 
 | Timeline     | Organisation |  Designation | Instructor/Supervisor | Topic/Course |
 | ---------------- | ----------------- | ------------ | ------------ | ------------ |
-| Jul 22 - Oct 22 | IIT Kharagpur (NPTEL) |  Teaching Assistant | [Prof. Santanu Chattopadhyay](http://www.iitkgp.ac.in/department/EC/faculty/ec-santanu) | Course : [Digital Circuits](https://onlinecourses.nptel.ac.in/noc22_ee110/course)-[Youtube Playlist](https://www.youtube.com/playlist?list=PL7N1sbWPuzeYVlEJZf8DJRdfToQi0xouX)
+| Jan 23 - Apr 23 | IIT Madras (NPTEL) |  Tutor | [Prof. Madhav Rao](https://www.iiitb.ac.in/faculty/madhav-rao) | Course : [Design and analysis of VLSI Subsystem](https://onlinecourses.nptel.ac.in/noc22_ee44/preview)-[Youtube Playlist](https://www.youtube.com/playlist?list=PL7N1sbWPuzeboQlS7dCIzhLWDFudJGMgH)
+| Jul 22 - Oct 22 | IIT Kharagpur (NPTEL) |  Tutor | [Prof. Santanu Chattopadhyay](http://www.iitkgp.ac.in/department/EC/faculty/ec-santanu) | Course : [Digital Circuits](https://onlinecourses.nptel.ac.in/noc22_ee110/course)-[Youtube Playlist](https://www.youtube.com/playlist?list=PL7N1sbWPuzeYVlEJZf8DJRdfToQi0xouX)
 | Jan 22 - Apr 22 | IIT Gandhinagar |  Graduate Teaching Fellow | [Prof. Joycee Mekie](https://joycee.people.iitgn.ac.in/) | Course : IC Design Lab
 | Aug 18 - Present | IIT Gandhinagar |  Teaching Assistant | [Prof. Joycee Mekie](https://joycee.people.iitgn.ac.in/) |  Course : Digital System, Embedded System, Microelectronics Lab, Computer Organisation and Architecture, VLSI Design, IC Design
 | May 17 - July 17 | IIT Kanpur | Student Research Associate | [Prof. Yogesh Singh Chauhan](http://home.iitk.ac.in/~chauhan/) | Topic : Compact Modelling and TCAD simulation of semiconductor devices.
