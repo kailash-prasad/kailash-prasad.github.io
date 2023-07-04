@@ -5,32 +5,36 @@ permalink: /publications/
 author_profile: true
 ---
 ### Conference Publications
-1. **K. Prasad**, A.Biswas, A.Kabra, and J. Mekie, “PIC-RAM: Process-Invariant Capacitive Multiplier Based Analog In Memory Computing in 6T SRAM” <span style="color:red">(DATE 2023)</span>
-2. **K. Prasad**,A.Srivastava, N.Baruah,  and J.Mekie "_Fast and Robust Sense Amplifier Design for Digital IMC_" <span style="color:red">(VLSID 2023)</span>
-3. **K. Prasad\***, T.Glint\*, J.Dagli, K.Gandhi, A.Gupta, V.Patel, N.Shah and J. Mekie, “_Hardware-Software Codesign of DNN Accelerators using Approximate Posit Multipliers_” <span style="color:red">(ASPDAC 2023)</span>
-4. **K.Prasad**, J.Dagli, N.Shah, M.Pidagannavar,  and J.Mekie “_Impact of approximation and commutativity on Neural Network and Image Processing Applications._” <span style="color:red">(VDAT 2022)</span>
-5. **K. Prasad\***, A.Parmar\*, N.Rao, and J. Mekie, “_An Automated Approach to Compare Bit Serial and Bit Parallel In-Memory Computing for DNNs_” <span style="color:red">(ISCAS 2022)</span>
-6. A.Parmar, **K. Prasad**, N.Rao, and J. Mekie, “_FastMem: A Fast Architecture-aware Memory Layout Design_” <span style="color:red">(ISQED 2022)</span>
-7. **K. Prasad**, A.Biswas, and J. Mekie, “_Analysis of Word Line Shaping Techniques for In-Memory Computing in SRAMs_”  <span style="color:red">(ICECS 2021) </span>
-8. **K. Prasad\***, C.K. Jha\*, V. Srivastava, and J. Mekie, “_FPAD: a Multistage Approximation Methodology for Designing Floating Point Approximate Dividers_,” <span style="color:red">(ISCAS 2020)</span>
-9. C.K. Jha,**K. Prasad**, A. Tomar, and J. Mekie, “_SEDAAF: FPGA Based Single Exact Dual Approximate Adders for Approximate Processors,_” <span style="color:red">(ISCAS 2020)</span>
+<ol>
+  <li><strong>K. Prasad*</strong>, C.K. Jha*, V. Srivastava, and J. Mekie, “FPAD: a Multistage Approximation Methodology for Designing Floating Point Approximate Dividers”, ISCAS 2020</li>
+  <li>C.K. Jha, <strong>K. Prasad</strong>, A. Tomar, and J. Mekie, “SEDAAF: FPGA Based Single Exact Dual Approximate Adders for Approximate Processors”, ISCAS 2020</li>
+  <li><strong>K. Prasad</strong>, A. Biswas, and J. Mekie, “Analysis of Word Line Shaping Techniques for In-Memory Computing in SRAMs”, ICECS 2021</li>
+  <li>A. Parmar, <strong>K. Prasad</strong>, N. Rao, and J. Mekie, “FastMem: A Fast Architecture-aware Memory Layout Design”, ISQED 2022</li>
+  <li><strong>K. Prasad*</strong>, A. Parmar*, N. Rao, and J. Mekie, “An Automated Approach to Compare Bit Serial and Bit Parallel In-Memory Computing for DNN”, ISCAS 2022</li>
+  <li><strong>K. Prasad</strong>, J. Dagli, N. Shah, M. Pidagannavar, and J. Mekie, “Impact of approximation and commutativity on Neural Network and Image Processing Applications”, VDAT 2022</li>
+  <li><strong>K. Prasad</strong>, A. Srivastava, N. Baruah, and J. Mekie, “Fast and Robust Sense Amplifier Design for Digital IMC”, VLSID 2023</li>
+  <li><strong>K. Prasad*</strong>, T. Glint*, J. Dagli, K. Gandhi, A. Gupta, P. Vrajesh, N. Shah, and J. Mekie, “Hardware-Software Codesign of DNN Accelerators using Approximate Posit Multipliers”, ASPDAC 2023 (Best Paper Candidate)</li>
+  <li><strong>K. Prasad</strong>, A. Biswas, A. Kabra, and J. Mekie, “PIC-RAM: Process-Invariant Capacitive Multiplier Based Analog In Memory Computing in 6T SRAM”, DATE 2023 (Best Paper Candidate)</li>
+  <li><strong>K. Prasad</strong>, S. Shubham, A. Biswas, and J. Mekie, “Process Variation Resilient Current-Domain Analog In Memory Computing”, DATE 2023</li>
+  <li>S. Shubham, S. Pandit, <strong>K. Prasad</strong>, and J. Mekie, “PVC-RAM: Process Variation Aware Charge Domain In-Memory Computing 6T-SRAM for DNNs”, DAC 2023</li>
+</ol>
 
 ### Journal Publications
-1. S.Singh, N.Surana, **K.Prasad**,P.Jain, J.Mekie, M.Awasthi, "HyGain: High Performance, Energy-Efficient Hybrid Gain Cell based Cache Hierarchy" <span style="color:red">(TACO 2022)</span>
+<ol>
+  <li>S. Singh, N. Surana, <strong>K. Prasad</strong>, P. Jain, J. Mekie, M. Awasthi, “HyGain: High Performance, Energy-Efficient Hybrid Gain Cell-based Cache Hierarchy”, TACO 2022 (Selected for ACM Transaction for Kudos)</li>
+</ol>
 
 ### Posters
-
-1. **K. Prasad**, A.Biswas, A.Kabra, and J. Mekie, “Energy and Area Efficient Column-Major IMC Architecture” <span style="color:red">(DAC 2022)</span>
-2. **K. Prasad**, A.Biswas, and J. Mekie, “Analysis of Word Line Shaping Techniques for In-Memory Computing in SRAM” <span style="color:red">(DAC 2022)</span>
+<ol>
+  <li><strong>K. Prasad</strong> and J. Mekie, “Energy Efficient Domain-Specific Hardware Design”, DAC 2023 PhD Forum</li>
+  <li><strong>K. Prasad</strong>, A. Pradhan, and J. Mekie, “WA-PUF: A Highly Random Write-Assist Based Sequence-Dependent SRAM-based PUF”, DAC 2023</li>
+  <li><strong>K. Prasad</strong> and J. Mekie, “Energy Efficient Domain-Specific Hardware Design”, DATE 2023 PhD Forum</li>
+  <li><strong>K. Prasad</strong>, A. Biswas, A. Kabra, and J. Mekie, “Linear Column Major Capacitive multiplier based Analog In-Memory Computing Architecture”, DAC 2022</li>
+  <li><strong>K. Prasad</strong>, A. Biswas, R.M. Rao, and J. Mekie, “IMC-Enabled SRAM PUF based on Bitline Computing and Write-back”, DAC 2022</li>
+  <li><strong>K. Prasad</strong>, A. Biswas, and J. Mekie, “Analysis of Word Line Shaping Techniques for In-Memory Computing in SRAMs”, DAC 2022</li>
+</ol>
 
 \* Equally Credited Authors
 
-<!-- 
-* Prasad, K.\*, Jha, C. K.\*, Srivastava, V. K., & Mekie, J. <a href="https://github.com/ConstantNIT/kailashprasad/blob/master/_pages/fpad.pdf" target="_blank">**FPAD: a Multistage Approximation Methodology for Designing Floating Point Approximate Dividers**</a> IEEE International Symposium on Circuits and Systems 2020, Seville, Spain May 17-20, 2020 \***Equal Contribution**
 
-* Jha, C. K., Prasad, K., Tomar, S. A., & Mekie, J. <a href="https://github.com/ConstantNIT/kailashprasad/blob/master/_pages/sedaf.pdf" target="_blank">**SEDAAF: FPGA Based Single Exact Dual Approximate Adders for Approximate Processors**</a> IEEE International Symposium on Circuits and Systems 2020, Seville, Spain May 17-20, 2020
-
-* Prasad, K., Biswas, A., & Mekie, J. <a href="https://github.com/ConstantNIT/kailashprasad/blob/master/_pages/wls.pdf" target="_blank">**Analysis of Word Line Shaping Techniques for In-Memory Computing in SRAMs**</a> (Paper Accepted in IEEE International Conference on Electronics Circuits and Systems 2021, Dubai, UAE Nov 28 - Dec 01, 2021)
-
- -->
 
