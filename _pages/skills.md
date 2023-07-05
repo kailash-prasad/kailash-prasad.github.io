@@ -9,7 +9,7 @@ author_profile: true
 - **Programming**: Python, Verilog, System Verilog, C, TCL, Bash, HTML/CSS
 - **Microcontroller**: Raspberry Pi 3, ARM7, Arduino, AVR, ARM Cortex M0, 8085
 - **Sysadmin**: Managed lab/system infrastructure, ensuring optimal functionality and availability for efficient operations
-- **Leadership**: Lead teams of more than 14 members for two Tapeouts in UMC 65nm in 2020 ans 2022
+- **Leadership**: Lead teams of more than 14 members for two Tapeouts in UMC 65nm in 2020 and 2022
 - **Mentorship**: Mentored more than 70 students, publishing with more than 15 students for work on circuit design, architecture, and tool design
 
 # Relevant Courses Done
@@ -24,6 +24,7 @@ author_profile: true
 - IC Design Lab
 - Analog IC Design
 - Mathematical Foundation for Computer Vision
+- Physics of Two Dimensional Materials
 
  
 
