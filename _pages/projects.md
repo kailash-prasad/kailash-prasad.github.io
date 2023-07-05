@@ -6,7 +6,7 @@ venue: "IIT Gandhinagar, Electrical Engineering Department"
 ---
 
 1. **Digital In Memory Computing (IMC) in 6T SRAM**
-   - *Duration:* Dec 2020 - May 2023
+   - *Duration:* Dec 2020 - Present
    - *Highlights:*
      - Conducted Compute Disturb Analysis and Proposed Mitigation techniques for SRAM 6T-based Digital IMC
      - Designed IMC Architecture including Decoder and Peripherals
@@ -14,7 +14,7 @@ venue: "IIT Gandhinagar, Electrical Engineering Department"
      - Designed a Compute-enabled Sense Amplifier robust to process variation
 
 2. **Analog In Memory Computing in 6T SRAM**
-   - *Duration:* Dec 2020 - May 2023
+   - *Duration:* Dec 2020 - Present
    - *Highlights:*
      - Proposed a column-major analog IMC for multi-bit multiplication with minimal changes to peripheral circuits
      - Developed a compute-disturb free IMC architecture with high dynamic range and resilience to process variations
@@ -23,14 +23,14 @@ venue: "IIT Gandhinagar, Electrical Engineering Department"
      - Proposed a novel process variation tracking method for analog IMC to compensate for process variation
 
 3. **Simulator Design for Digital IMC**
-   - *Duration:* May 2019 - May 2023
+   - *Duration:* May 2019 - Present
    - *Highlights:*
      - Designed i-CACTI simulator for application-level analysis of Digital IMC
      - Built FastMem simulator for accurate and fast SRAM modeling integrated with Digital IMC Compute Logic using Bit Serial and Bit Parallel paradigms of computation
      - Built NeuroCACTI-IMC to calculate performance metrics for in-memory computations in SRAM-based memory sub-system, achieving 8X improvement in EDP for BPA and BSA by modifying memory array structure.
 
 4. **Automatic Analog Circuit Design Tool using Machine Learning**
-   - *Duration:* Aug 2020 - May 2021
+   - *Duration:* Aug 2020 - Present
    - *Highlights:*
      - Utilized machine learning to model technology parameters for automatic analog circuit design
      - Created a design space of circuits (Common Source and Two Stage Operational Amplifier) using the machine learning model
