@@ -6,14 +6,14 @@ venue: "IIT Gandhinagar, Electrical Engineering Department"
 ---
 
 ## Digital In Memory Computing (IMC) in 6T SRAM
-- Duration: Dec 2020 - May 2023
+- Duration: Dec 2020 - Present
 - Performed Compute Disturb Analysis and Proposed Mitigation techniques for SRAM 6T-based Digital IMC
 - Designed IMC Architecture including Decoder and Peripherals
 - Designed Compute Circuits for performing bit-serial addition, multiplication, and MAC operation
 - Designed a Compute-enabled Sense Amplifier that is robust to process variation
 
 ## Analog In Memory Computing in 6T SRAM
-- Duration: Dec 2020 - May 2023
+- Duration: Dec 2020 - Present
 - Proposed a column-major analog IMC for multi-bit multiplication with minimal change in peripheral circuits
 - Developed a compute-disturb free IMC architecture with high dynamic range and resilience to process variations
 - Identified wordline degradation as a major source of non-linearity in analog and digital IMC
@@ -21,13 +21,13 @@ venue: "IIT Gandhinagar, Electrical Engineering Department"
 - Proposed a novel process variation tracking method for analog IMC to compensate for process variation
 
 ## Simulator Design for Digital IMC
-- Duration: May 2019 - May 2023
+- Duration: May 2019 - Present
 - Designed i-CACTI simulator for application-level analysis of Digital IMC
 - Built FastMem simulator for accurate and fast SRAM modeling integrated with Digital IMC Compute Logic with Bit Serial and Bit Parallel paradigms of computation
 - Built NeuroCACTI-IMC calculates performance metrics for in-memory computations for SRAM-based memory sub-system and observes 8X improvement in EDP for BPA and BSA by modifying memory array structure.
 
 ## Automatic Analog Circuit Design Tool using Machine Learning
-- Duration: Aug 2020 - May 2021
+- Duration: Aug 2020 - Present
 - Utilized machine learning to model technology parameters for automatic analog circuit design
 - Created a design space of circuits (Common Source and Two Stage Operational Amplifier) using the machine learning model
 - Employed Bayesian optimization to find the optimum design in the design space
