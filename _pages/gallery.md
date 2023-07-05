@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-* <a href="https://drive.google.com/open?id=1-DpZNvF9xFlgRtnOPkd2Qgay3kONUXQj" target="_blank">IIT Gandhinagar - Photo Gallery</a>
+* <a href="https://drive.google.com/drive/folders/0B7yd8o_EZwcrflR4Q25XeVB2by05b21wNmtLaG93azhYcGJLekFCZTBiVWhscE9Kc0hyNWM?resourcekey=0-Kmu_OlPJVJD3Kh4ZsF9PiQ&usp=sharing" target="_blank">IIT Gandhinagar - Photo Gallery</a>
 
 <style>
     .responsive-image {
