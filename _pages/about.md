@@ -68,7 +68,7 @@ keywords:
 </div>
 <!-- * <a href="https://github.com/ConstantNIT/kailashprasad/blob/master/_pages/CV_Kailash.pdf" target="_blank">Detailed CV</a> -->
 
-# News and Highlights
+## News and Highlights
 
 <div class="datatable-begin"></div>
 <div class="table-wrapper" markdown="block">
@@ -109,7 +109,7 @@ keywords:
 </div>
 <div class="datatable-end"></div>
 
-# Research Interest
+## Research Interest
 <div style="text-align: justify; font-size: 16px;">
     <ul>
           <li>Memory Centric Circuits and Architectures</li>
@@ -120,7 +120,7 @@ keywords:
     </ul>
 </div>
 
-# Education
+## Education
 <div style="text-align: justify; font-size: 16px;">
     <ul>
         <li><strong>Ph.D in Electrical Engineering</strong>, IIT Gandhinagar, 2018 - Present</li>
@@ -129,7 +129,7 @@ keywords:
 </div>
 
 
-# Work experience
+## Work experience
 
 <div class="datatable-begin"></div>
 
