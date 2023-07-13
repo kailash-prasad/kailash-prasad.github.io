@@ -20,6 +20,8 @@ keywords:
   - Kailash Prasad PhD in Electrical Engineering
 ---
 
+<div style="text-align: justify; font-size: 16px;">
+
 I am Kailash Prasad, a Prime Minister Research Fellow at the [Indian Institute of Technology Gandhinagar](https://iitgn.ac.in/). I completed my B.Tech. in Electronics and Communication Engineering from the National Institute of Technology Arunachal Pradesh in 2018, and I was awarded Chairman and Institute Gold Medal for outstanding academic performance. Currently, I am pursuing Ph.D. in Electrical Engineering at the nanoDC Lab, IIT Gandhinagar, under the guidance of [Prof. Joycee Mekie](https://joycee.people.iitgn.ac.in/).
 
 My research focuses on hardware for machine learning, in-memory computing, approximate computing, CAD tool design, and SRAM memory subsystem design. I am an SRC Research Scholar and the recipient of the Intel India Research Fellowship in 2020. My work has been accepted and recognized in premier EDA conferences such as ASP-DAC and DATE, with some papers receiving Best Paper Nominations. I also serve as a reviewer for various conferences, including ISCAS, AICAS, and journals such as IEEE TCAS I and TCAS II.
@@ -32,6 +34,7 @@ My belief in the importance of perseverance and determination can be summarized 
 
 "Overcoming barriers may require us to take different paths - sometimes we cross over, sometimes we tunnel through, and sometimes we break them down altogether. But with determination and a willingness to explore new avenues, we can always reach our destination." - KP
 
+</div>
 <!-- * <a href="https://github.com/ConstantNIT/kailashprasad/blob/master/_pages/CV_Kailash.pdf" target="_blank">Detailed CV</a> -->
 
 # News and Highlights
