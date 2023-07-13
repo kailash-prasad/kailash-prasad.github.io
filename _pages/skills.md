@@ -1,30 +1,38 @@
 ---
 layout: archive
-title: "Technical and Soft Skills"
+title: "Skills"
 permalink: /skills/
 author_profile: true
 ---
 
-- **EDA Tools**: Cadence Virtuoso, Calibre, Design Compiler, Genus, VCS, NCSIM, Innovus, Abstract, Liberate, Xilinx Vivado, MATLAB, Keil uVision, Sentaurus TCAD
-- **Programming**: Python, Verilog, System Verilog, C, TCL, Bash, HTML/CSS
-- **Microcontroller**: Raspberry Pi 3, ARM7, Arduino, AVR, ARM Cortex M0, 8085
-- **Sysadmin**: Managed lab/system infrastructure, ensuring optimal functionality and availability for efficient operations
-- **Leadership**: Lead teams of more than 14 members for two Tapeouts in UMC 65nm in 2020 and 2022
-- **Mentorship**: Mentored more than 70 students, publishing with more than 15 students for work on circuit design, architecture, and tool design
+<div style="text-align: justify; font-size: 16px;">
+    <h3>Technical and Soft Skills</h3>
+    <ul>
+        <li><strong>EDA Tools:</strong> Cadence Virtuoso, Calibre, Design Compiler, Genus, VCS, NCSIM, Innovus, Abstract, Liberate, Xilinx Vivado, MATLAB, Keil uVision, Sentaurus TCAD</li>
+        <li><strong>Programming:</strong> Python, Verilog, System Verilog, C, TCL, Bash, HTML/CSS</li>
+        <li><strong>Microcontroller:</strong> Raspberry Pi 3, ARM7, Arduino, AVR, ARM Cortex M0, 8085</li>
+        <li><strong>Sysadmin:</strong> Managed lab/system infrastructure, ensuring optimal functionality and availability for efficient operations</li>
+        <li><strong>Leadership:</strong> Lead teams of more than 14 members for two Tapeouts in UMC 65nm in 2020 and 2022</li>
+        <li><strong>Mentorship:</strong> Mentored more than 70 students, publishing with more than 15 students for work on circuit design, architecture, and tool design</li>
+    </ul>
+    
+    <h3>Relevant Courses Done</h3>
+    <ul>
+        <li>VLSI Design</li>
+        <li>Asynchronous Circuit Design</li>
+        <li>Physics of Transistors</li>
+        <li>Computer Architecture</li>
+        <li>Machine Learning</li>
+        <li>MicroFabrication and Semiconductor Processes</li>
+        <li>Computer Networking</li>
+        <li>Microelectronics Lab</li>
+        <li>IC Design Lab</li>
+        <li>Analog IC Design</li>
+        <li>Mathematical Foundation for Computer Vision</li>
+        <li>Physics of Two Dimensional Materials</li>
+    </ul>
+</div>
 
-# Relevant Courses Done
-- VLSI Design
-- Asynchronous Circuit Design
-- Physics of Transistors
-- Computer Architecture
-- Machine Learning
-- MicroFabrication and Semiconductor Processes
-- Computer Networking
-- Microelectronics Lab
-- IC Design Lab
-- Analog IC Design
-- Mathematical Foundation for Computer Vision
-- Physics of Two Dimensional Materials
 
  
 
