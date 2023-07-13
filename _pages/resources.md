@@ -1,10 +1,8 @@
 ---
 layout: archive
 title: Resources
-permalink: /presentation/
+permalink: /resources/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 <div style="text-align: justify; font-size: 16px;">
     <h3>Presentations</h3>
