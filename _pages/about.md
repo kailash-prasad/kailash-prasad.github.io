@@ -110,13 +110,24 @@ keywords:
 <div class="datatable-end"></div>
 
 # Research Interest
-
-### Memory Centric Circuits and Architectures \| Approximate Computing \| Hardware for Machine Learning \| CAD \| Posit Number System
+<div style="text-align: justify; font-size: 16px;">
+    <ul>
+        <li>Memory Centric Circuits and Architectures</li>
+        <li>Approximate Computing</li>
+        <li>Hardware for Machine Learning</li>
+        <li>CAD</li>
+        <li>Posit Number System</li>
+    </ul>
+</div>
 
 # Education
+<div style="text-align: justify; font-size: 16px;">
+    <ul>
+        <li><strong>Ph.D in Electrical Engineering</strong>, IIT Gandhinagar, 2018 - Present</li>
+        <li><strong>B.Tech in Electronics and Communication Engineering</strong>, NIT Arunachal Pradesh, 2018</li>
+    </ul>
+</div>
 
-* **Ph.D in Electrical Engineering**, IIT Gandhinagar, 2018 - Present
-* **B.Tech in Electronics and Communication Engineering**, NIT Arunachal Pradesh, 2018
 
 # Work experience
 
