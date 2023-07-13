@@ -5,8 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-<div style="text-align: justify; font-size: 14px;">
-    <h3>Conference Publications</h3>
+<div style="text-align: justify; font-size: 16px;">
+    <h2>Conference Publications</h2>
     <ol>
         <li>S. Shubham, S. Pandit, <strong>K. Prasad</strong>, and J. Mekie, “PVC-RAM: Process Variation Aware Charge Domain In-Memory Computing 6T-SRAM for DNNs”, Design Automation Conference (DAC) 2023</li>
         <li><strong>K. Prasad</strong>, S. Shubham, A. Biswas, and J. Mekie, “Process Variation Resilient Current-Domain Analog In Memory Computing”, Design, Automation & Test in Europe Conference & Exhibition (DATE) 2023</li>
@@ -21,12 +21,12 @@ author_profile: true
         <li><strong>K. Prasad*</strong>, C.K. Jha*, V. Srivastava, and J. Mekie, “FPAD: a Multistage Approximation Methodology for Designing Floating Point Approximate Dividers”, International Symposium on Circuits and Systems (ISCAS) 2020</li>
     </ol>
     
-    <h3>Journal Publications</h3>
+    <h2>Journal Publications</h2>
     <ol>
         <li>S. Singh, N. Surana, <strong>K. Prasad</strong>, P. Jain, J. Mekie, M. Awasthi, “HyGain: High Performance, Energy-Efficient Hybrid Gain Cell-based Cache Hierarchy”, ACM Transactions on Architecture and Code Optimization (TACO) 2022 (Selected for ACM Transaction for Kudos)</li>
     </ol>
     
-    <h3>Posters</h3>
+    <h2>Posters</h2>
     <ol>
         <li><strong>K. Prasad</strong> and J. Mekie, “Energy Efficient Domain-Specific Hardware Design”, Design Automation Conference (DAC) 2023 PhD Forum</li>
         <li><strong>K. Prasad</strong>, A. Pradhan, and J. Mekie, “WA-PUF: A Highly Random Write-Assist Based Sequence-Dependent SRAM-based PUF”, Design Automation Conference (DAC) 2023</li>
