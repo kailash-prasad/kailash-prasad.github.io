@@ -112,11 +112,11 @@ keywords:
 # Research Interest
 <div style="text-align: justify; font-size: 16px;">
     <ul>
-        <li>Memory Centric Circuits and Architectures</li>
-        <li>Approximate Computing</li>
-        <li>Hardware for Machine Learning</li>
-        <li>CAD</li>
-        <li>Posit Number System</li>
+          <li>Memory Centric Circuits and Architectures</li>
+          <li>Approximate Circuits and Architectures for Machine Learning</li>
+          <li>Hardware Design for Posit Number System</li>
+          <li>AI Based Hardware Design</li>
+          <li>SRAM Peripherals and Memory Subsystem Design</li>
     </ul>
 </div>
 
