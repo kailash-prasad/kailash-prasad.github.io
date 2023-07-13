@@ -1,5 +1,6 @@
 ---
 layout: archive
+title: Resources
 permalink: /presentation/
 author_profile: true
 redirect_from:
