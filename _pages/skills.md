@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <div style="text-align: justify; font-size: 16px;">
-    <h3>Technical and Soft Skills</h3>
+    <h2>Technical and Soft Skills</h2>
     <ul>
         <li><strong>EDA Tools:</strong> Cadence Virtuoso, Calibre, Design Compiler, Genus, VCS, NCSIM, Innovus, Abstract, Liberate, Xilinx Vivado, MATLAB, Keil uVision, Sentaurus TCAD</li>
         <li><strong>Programming:</strong> Python, Verilog, System Verilog, C, TCL, Bash, HTML/CSS</li>
@@ -16,7 +16,7 @@ author_profile: true
         <li><strong>Mentorship:</strong> Mentored more than 70 students, publishing with more than 15 students for work on circuit design, architecture, and tool design</li>
     </ul>
     
-    <h3>Relevant Courses Done</h3>
+    <h2>Relevant Courses Done</h2>
     <ul>
         <li>VLSI Design</li>
         <li>Asynchronous Circuit Design</li>
