@@ -74,6 +74,12 @@ Present Collaborators
     <td>B.Tech</td>
     <td>2020 - 2024</td>
   </tr>
+    <tr>
+    <td></td>
+    <td>Krishil Gandhi</td>
+    <td>Intern</td>
+    <td>2022-2024</td>
+  </tr>
 </table>
 
 <div class="datatable-end"></div>
