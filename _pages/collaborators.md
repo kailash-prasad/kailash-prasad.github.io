@@ -13,16 +13,17 @@ Present Collaborators
     counter-reset: row-counter;
   }
 
-  tr {
+  tr:not(:first-child) {
     counter-increment: row-counter;
   }
 
-  td:first-child::before {
+  td:first-child:not(:first-of-type)::before {
     content: counter(row-counter);
   }
 </style>
 
 <div class="datatable-begin"></div>
+
 
 <table>
   <tr>
@@ -88,11 +89,11 @@ Past Collaborators
     counter-reset: row-counter;
   }
 
-  tr {
+  tr:not(:first-child) {
     counter-increment: row-counter;
   }
 
-  td:first-child::before {
+  td:first-child:not(:first-of-type)::before {
     content: counter(row-counter);
   }
 </style>
