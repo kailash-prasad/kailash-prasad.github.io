@@ -27,6 +27,12 @@ Present Collaborators
 
 <table>
   <tr>
+    <td></td>
+    <td>Tom Glint</td>
+    <td>PhD</td>
+    <td>2017-2023</td>
+  </tr>
+  <tr>
     <th>#</th>
     <th>Name</th>
     <th>Program</th>
