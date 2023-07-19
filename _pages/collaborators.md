@@ -74,7 +74,14 @@ Present Collaborators
     <td>B.Tech</td>
     <td>2020 - 2024</td>
   </tr>
-    <tr>
+  <tr>
+    <td></td>
+    <td>Shanmukhi Ganesh Sai</td>
+    <td>B.Tech</td>
+    <td>2020 - 2024</td>
+  </tr>
+  
+  <tr>
     <td></td>
     <td>Krishil Gandhi</td>
     <td>Intern</td>
@@ -162,6 +169,13 @@ Past Collaborators
     <td>Ayush Srivastava</td>
     <td>M.Tech</td>
     <td>Design Engineer NXP Semiconductor</td>
+    <td>2023</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Govind Prasad Chandrakar</td>
+    <td>Post Doctoral Researcher</td>
+    <td>Assistant Professor at IIIT Naya Raipur</td>
     <td>2023</td>
   </tr>
   <tr>
