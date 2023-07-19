@@ -217,7 +217,7 @@ Past Collaborators
     <td></td>
     <td>Alok Parmar</td>
     <td>MS Research</td>
-    <td>IIIT Gandhinagar</td>
+    <td>IIIT Bangalore</td>
     <td>Senior Engineer, Memory Systems Design at Western Digital</td>
     <td>2022</td>
   </tr>
