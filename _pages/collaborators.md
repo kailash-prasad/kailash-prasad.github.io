@@ -26,17 +26,18 @@ Present Collaborators
 
 
 <table>
-  <tr>
-    <td></td>
-    <td>Tom Glint</td>
-    <td>PhD</td>
-    <td>2017-2023</td>
-  </tr>
+
   <tr>
     <th>#</th>
     <th>Name</th>
     <th>Program</th>
     <th>Batch</th>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Tom Glint</td>
+    <td>PhD</td>
+    <td>2017-2023</td>
   </tr>
   <tr>
     <td></td>
@@ -70,7 +71,7 @@ Present Collaborators
   </tr>
   <tr>
     <td></td>
-    <td>Aryan</td>
+    <td>Aryan Gupta</td>
     <td>B.Tech</td>
     <td>2020 - 2024</td>
   </tr>
@@ -86,7 +87,18 @@ Present Collaborators
     <td>B.Tech</td>
     <td>2020 - 2024</td>
   </tr>
-  
+  <tr>
+    <td></td>
+    <td>Ruchit Chudasma</td>
+    <td>B.Tech</td>
+    <td>2020 - 2024</td>
+  </tr> 
+  <tr>
+    <td></td>
+    <td>Sukanya More</td>
+    <td>B.Tech</td>
+    <td>2020 - 2024</td>
+  </tr>
   <tr>
     <td></td>
     <td>Krishil Gandhi</td>
