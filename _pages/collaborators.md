@@ -142,18 +142,26 @@ Past Collaborators
   </tr>
   <tr>
     <td></td>
-    <td>Dheeraj Kumar</td>
-    <td>B.Tech</td>
-    <td>IIT Gandhinagar</td>
-    <td>Engineer at HCL Tech</td>
-    <td>2023</td>
-  </tr>
-  <tr>
-    <td></td>
     <td>Alok Pradhan</td>
     <td>M.Tech</td>
     <td>IIT Gandhinagar</td>
     <td>Design Engineer Texas Instruments</td>
+    <td>2023</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Yaswanth Mittapalli</td>
+    <td>M.Tech</td>
+    <td>IIT Gandhinagar</td>
+    <td>Design Engineer Texas Instruments</td>
+    <td>2023</td>
+  </tr>
+  <tr>
+  <td></td>
+    <td>Ayush Srivastava</td>
+    <td>M.Tech</td>
+    <td>IIT Gandhinagar</td>
+    <td>Design Engineer NXP Semiconductor</td>
     <td>2023</td>
   </tr>
   <tr>
@@ -182,18 +190,10 @@ Past Collaborators
   </tr>
   <tr>
     <td></td>
-    <td>Yaswanth Mittapalli</td>
-    <td>M.Tech</td>
+    <td>Dheeraj Kumar</td>
+    <td>B.Tech</td>
     <td>IIT Gandhinagar</td>
-    <td>Design Engineer Texas Instruments</td>
-    <td>2023</td>
-  </tr>
-  <tr>
-  <td></td>
-    <td>Ayush Srivastava</td>
-    <td>M.Tech</td>
-    <td>IIT Gandhinagar</td>
-    <td>Design Engineer NXP Semiconductor</td>
+    <td>Engineer at HCL Tech</td>
     <td>2023</td>
   </tr>
   <tr>
