@@ -217,6 +217,55 @@ Past Collaborators
     <td>Engineer at Global Foundry</td>
     <td>2022</td>
   </tr>
+    <tr>
+    <td></td>
+    <td>Rajat Borkar</td>
+    <td>M.Tech</td>
+    <td>Graphics Hardware Engineer at Intel Corporation</td>
+    <td>2021</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Roshni Dhandamudi</td>
+    <td>M.Tech</td>
+    <td>Memory Design Engineer at Ceremorphic</td>
+    <td>2021</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Rajesh Kumar</td>
+    <td>M.Tech</td>
+    <td>Senior Design Engineer at Marvell Technology</td>
+    <td>2021</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Naveen Puri</td>
+    <td>M.Tech</td>
+    <td>Memory Design Engineer at Ceremorphic</td>
+    <td>2021</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Tushar Agarwal</td>
+    <td>M.Tech</td>
+    <td>Graphics Hardware Engineer at Intel Corporation</td>
+    <td>2021</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Anoop Kumar</td>
+    <td>M.Tech</td>
+    <td>Hardware Engineer, Qualcomm</td>
+    <td>2021</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Bachu Varun Tej</td>
+    <td>M.Tech</td>
+    <td>ASIC Design Engineer at NVIDIA</td>
+    <td>2021</td>
+  </tr>
   <tr>
     <td></td>
     <td>Sumit Walia</td>
