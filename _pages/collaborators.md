@@ -7,18 +7,76 @@ author_profile: true
 Present Collaborators
 ===
 
+<style>
+  /* Custom CSS to add automatic numbering to the first column */
+  table {
+    counter-reset: row-counter;
+  }
+
+  tr {
+    counter-increment: row-counter;
+  }
+
+  td:first-child::before {
+    content: counter(row-counter);
+  }
+</style>
+
 <div class="datatable-begin"></div>
 
-| Name     | Program | Batch |
-| ------------ | ------- | --------------------------------------- |
-| Prateek Sharma | M.Tech | 2022 - 2024
-| Pradyumna Pandey | M.Tech | 2022 - 2024
-| Neel Shah | B.Tech | 2020 - 2024
-| Jinay Dagli | B.Tech | 2020 - 2024
-| Patel Vrajesh | B.Tech | 2020 - 2024
-| Aryan | B.Tech | 2020 - 2024
-| Nitesh Maurya | B.Tech | 2020 - 2024
+<table>
+  <tr>
+    <th>#</th>
+    <th>Name</th>
+    <th>Program</th>
+    <th>Batch</th>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Prateek Sharma</td>
+    <td>M.Tech</td>
+    <td>2022 - 2024</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Pradyumna Pandey</td>
+    <td>M.Tech</td>
+    <td>2022 - 2024</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Neel Shah</td>
+    <td>B.Tech</td>
+    <td>2020 - 2024</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Jinay Dagli</td>
+    <td>B.Tech</td>
+    <td>2020 - 2024</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Patel Vrajesh</td>
+    <td>B.Tech</td>
+    <td>2020 - 2024</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Aryan</td>
+    <td>B.Tech</td>
+    <td>2020 - 2024</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Nitesh Maurya</td>
+    <td>B.Tech</td>
+    <td>2020 - 2024</td>
+  </tr>
+</table>
+
 <div class="datatable-end"></div>
+
 
 
 Past Collaborators
