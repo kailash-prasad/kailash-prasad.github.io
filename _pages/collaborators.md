@@ -17,7 +17,7 @@ Present Collaborators
     counter-increment: row-counter;
   }
 
-  td:first-child:not(:first-of-type)::before {
+  td:first-child::before {
     content: counter(row-counter);
   }
 </style>
@@ -84,6 +84,7 @@ Past Collaborators
 ===
 
 <style>
+<style>
   /* Custom CSS to add automatic numbering to the first column */
   table {
     counter-reset: row-counter;
@@ -93,7 +94,7 @@ Past Collaborators
     counter-increment: row-counter;
   }
 
-  td:first-child:not(:first-of-type)::before {
+  td:first-child::before {
     content: counter(row-counter);
   }
 </style>
