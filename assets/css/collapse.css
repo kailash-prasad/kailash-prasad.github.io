@@ -1,16 +1,25 @@
 .container {
-    width:100%;
-    border:1px solid #000000;
+  width: 100%;
+  border: 1px solid #000000;
+  color: black; /* Add this CSS rule to make the font color black */
 }
+
 .container div {
-    width:100%;
+  width: 100%;
+  color: black; /* Add this CSS rule to make the font color black */
 }
+
 .container .header {
-    background-color:#d3d3d3;
-    padding: 2px;
-    cursor: pointer;
-    font-weight: bold;
+  background-color: #d3d3d3;
+  padding: 2px;
+  cursor: pointer;
+  font-weight: bold;
+  color: black; /* Add this CSS rule to make the font color black */
 }
+
 .container .content {
-    display: none;
-    padding : 5px;
+  display: none;
+  padding: 5px;
+  color: black; /* Add this CSS rule to make the font color black */
+}
+
