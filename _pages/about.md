@@ -67,47 +67,219 @@ keywords:
 
 </div>
 <!-- * <a href="https://github.com/ConstantNIT/kailashprasad/blob/master/_pages/CV_Kailash.pdf" target="_blank">Detailed CV</a> -->
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+    }
+
+    .table-wrapper {
+      max-width: 800px;
+      margin: 0 auto;
+      border-collapse: collapse;
+    }
+
+    .table-wrapper table {
+      width: 100%;
+      border: 1px solid #ccc;
+    }
+
+    .table-wrapper th,
+    .table-wrapper td {
+      padding: 12px;
+      text-align: left;
+      border-bottom: 1px solid #ccc;
+    }
+
+    .table-wrapper th {
+      background-color: #f2f2f2;
+    }
+
+    .table-wrapper tbody tr:hover {
+      background-color: #f9f9f9;
+    }
+
+    .table-wrapper a {
+      color: #007bff;
+      text-decoration: none;
+    }
+
+    .table-wrapper a:hover {
+      text-decoration: underline;
+    }
+  </style>
 
 ## News and Highlights
 
-<div class="datatable-begin"></div>
-<div class="table-wrapper" markdown="block">
+  <div class="datatable-begin"></div>
+  <div class="table-wrapper">
 
-| Timeline     | News                                           |
-| ------------ | ---------------------------------------------- |
-| Jun-2023 | Awarded ACM SIGDA and IEEE CEDA travel grant from DAC to attend [DAC 2023](https://www.dac.com/)
-| Jun-2023 | PhD thesis extended abstract has been accepted to Design Automation Conference [DAC'23 PhD Forum](https://www.dac.com/Attend/Students-Scholarships/PhD-Forum).
-| Apr-2023 | Paper Titled " PVC-RAM: Process Variation Aware Charge Domain In-Memory Computing 6T-SRAM for DNNs" has been accepted to Design Automation Conference [DAC 2023](https://www.dac.com/)
-| Apr-2023 | WiP Poster Titled "WA-PUF: Write-Assist Augmentation of Sequence Dependent SRAM PUF for Enhanced Randomness and Uniqueness" has been accepted to Design Automation Conference [DAC 2023](https://www.dac.com/)
-| Mar-2023 | Awarded travel grant from DATE to attend [DATE 2023](https://www.date-conference.com/)
-| Jan-2023 | Paper Titled "Process Variation Resilient Current-Domain Analog In Memory Computing" has been accepted to Design Automation and Test in Europe Conference [DATE 2023](https://www.date-conference.com/).
-| Dec-2022 | PhD thesis extended abstract has been accepted to Design Automation and Test in Europe Conference [DATE'23 PhD Forum](https://www.date-conference.com/phd-forum-call-for-submission). 
-| Dec-2022 | Paper Titled "HyGain: High Performance, Energy-Efficient Hybrid Gain Cell based Cache Hierarchy" has been selected to appear in the [Association for Computing Machinery (ACM) Showcase on Kudos](https://www.growkudos.com/showcase/).
-| Nov-2022 | Paper Titled "PIC-RAM: Process-Invariant Capacitive Multiplier Based Analog In Memory Computing in 6T SRAM" has been accepted to Design Automation and Test in Europe Conference [DATE 2023](https://www.date-conference.com/). It has also been nominated for Best Paper Award.
-| Nov-2022 | Paper Titled "Hardware-Software Codesign of DNN Accelerators using Approximate Posit Multipliers" to be presented at [ASP-DAC 2023](https://www.aspdac.com/aspdac2023/) has been nominated for Best Paper Award.
-| Nov-2022 | Proposal Titled "Fast and Efficient ML Hardware Accelerator Designs for SoCs with integrated FPGA" has been accepted to  [VLSID Design Contest 2023](https://vlsid.org/design-contest/)
-| Oct-2022 | Recieved Outstanding Graduate Teaching Fellow Award for Teaching IC Design Course
-| Oct-2022 | 1 paper accepted at International VLSI Design & Embedded Systems Conference [VLSID 2023](https://vlsid.org/)
-| Sep-2022 | 1 paper accepted at Asia and South Pacific Design Automation Conference [ASP-DAC 2023](https://www.aspdac.com/aspdac2023/)
-| Aug-2022 | 1 paper accepted at ACM Transactions on Architecture and Code Optimization [TACO 2022](https://dl.acm.org/journal/taco)
-| Jun-2022 | 1 paper accepted at International Symposium on VLSI Design and Test [VDAT 2022](https://iitjammu.ac.in/vdat2022/)
-| Apr-2022 | Selected for DAC Young Fellow Program - [DAC 2022](https://www.dac.com/Attend/Students-Scholarships/Young-Student-Fellow-Program)
-| Apr-2022 | 2 works accepted for Poster Presentation at Design Automation Conference [DAC 2022](https://www.dac.com/)
-| Jan-2022 | Graduate Teaching Fellow (Instructor) for IC Design Lab at IIT Gandhinagar
-| Jan-2022 | 1 paper accepted at IEEE International Symposium on Circuits and Systems [ISCAS 2022](https://www.iscas2022.org/)
-| Dec-2021 | 1 paper accepted at IEEE International Symposium on Quality Electronic Design [ISQED 2022](https://www.isqed.org/)
-| Dec-2021 | Best Research Video Award at the [DAC 2021 Young Fellows Program](https://www.dac.com/Attend/Students-Scholarships/Young-Student-Fellow-Program) - [Link to the video](https://www.youtube.com/watch?v=TPSk2_oONNQ&t=34s&ab_channel=KailashPrasad)
-| Nov-2021 | Selected for DAC Young Fellow Program - [DAC 2021](https://www.dac.com/Attend/Students-Scholarships/Young-Student-Fellow-Program)
-| Sep-2021 | 1 paper accepted at IEEE International Conference on Electronics Circuits and Systems [ICECS 2021](https://www.ieeeicecs2021.com/)
-| Oct-2020 | Awarded the Prestigious Prime Minister's Research Fellowship ([PMRF](https://may2020.pmrf.in/)) 2020
-| Aug-2020 | Awarded the Prestigious Intel India Research Fellowship 2020
-| Apr-2020 | Learn Python Programming during this COVID 19 Pandemic. [Click Here](https://kailash-prasad.github.io/presentation/)
-| Jan-2020 | 2 papers accepted at  IEEE International Symposium on Circuits and Systems [ISCAS 2020](https://www.iscas2020.org/)
-| Jan-2020 | Awarded travel grant from VLSID to attend [VLSID 2020](http://embeddedandvlsidesignconference.org/)
-| May-2019 | Awarded travel grant from ACM SIGARCH to attend [ISCA 2019 and uArch Workshop](https://iscaconf.org/isca2019/index.html)
+    <table>
+      <thead>
+        <tr>
+          <th>Timeline</th>
+          <th>News</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Jun-2023</td>
+          <td>Awarded ACM SIGDA and IEEE CEDA travel grant from DAC to attend <a href="https://www.dac.com/">DAC 2023</a>
+          </td>
+        </tr>
+        <tr>
+          <td>Jun-2023</td>
+          <td>PhD thesis extended abstract has been accepted to Design Automation Conference <a
+              href="https://www.dac.com/Attend/Students-Scholarships/PhD-Forum">DAC'23 PhD Forum</a>.</td>
+        </tr>
+        <tr>
+          <td>Apr-2023</td>
+          <td>Paper Titled "PVC-RAM: Process Variation Aware Charge Domain In-Memory Computing 6T-SRAM for DNNs" has been
+            accepted to Design Automation Conference <a href="https://www.dac.com/">DAC 2023</a></td>
+        </tr>
+        <tr>
+          <td>Apr-2023</td>
+          <td>WiP Poster Titled "WA-PUF: Write-Assist Augmentation of Sequence Dependent SRAM PUF for Enhanced Randomness
+            and Uniqueness" has been accepted to Design Automation Conference <a href="https://www.dac.com/">DAC 2023</a>
+          </td>
+        </tr>
+        <tr>
+          <td>Mar-2023</td>
+          <td>Awarded travel grant from DATE to attend <a href="https://www.date-conference.com/">DATE 2023</a></td>
+        </tr>
+        <tr>
+          <td>Jan-2023</td>
+          <td>Paper Titled "Process Variation Resilient Current-Domain Analog In Memory Computing" has been accepted to
+            Design Automation and Test in Europe Conference <a href="https://www.date-conference.com/">DATE 2023</a>.</td>
+        </tr>
+        <tr>
+          <td>Dec-2022</td>
+          <td>PhD thesis extended abstract has been accepted to Design Automation and Test in Europe Conference <a
+              href="https://www.date-conference.com/phd-forum-call-for-submission">DATE'23 PhD Forum</a>.</td>
+        </tr>
+        <tr>
+          <td>Dec-2022</td>
+          <td>Paper Titled "HyGain: High Performance, Energy-Efficient Hybrid Gain Cell based Cache Hierarchy" has been
+            selected to appear in the <a href="https://www.growkudos.com/showcase/">Association for Computing Machinery
+              (ACM) Showcase on Kudos</a>.</td>
+        </tr>
+        <tr>
+          <td>Nov-2022</td>
+          <td>Paper Titled "PIC-RAM: Process-Invariant Capacitive Multiplier Based Analog In Memory Computing in 6T SRAM"
+            has been accepted to Design Automation and Test in Europe Conference <a
+              href="https://www.date-conference.com/">DATE 2023</a>. It has also been nominated for Best Paper Award.
+          </td>
+        </tr>
+        <tr>
+          <td>Nov-2022</td>
+          <td>Paper Titled "Hardware-Software Codesign of DNN Accelerators using Approximate Posit Multipliers" to be
+            presented at <a href="https://www.aspdac.com/aspdac2023/">ASP-DAC 2023</a> has been nominated for Best Paper
+            Award.</td>
+        </tr>
+        <tr>
+          <td>Nov-2022</td>
+          <td>Proposal Titled "Fast and Efficient ML Hardware Accelerator Designs for SoCs with integrated FPGA" has been
+            accepted to <a href="https://vlsid.org/design-contest/">VLSID Design Contest 2023</a></td>
+        </tr>
+        <tr>
+          <td>Oct-2022</td>
+          <td>Received Outstanding Graduate Teaching Fellow Award for Teaching IC Design Course</td>
+        </tr>
+        <tr>
+          <td>Oct-2022</td>
+          <td>1 paper accepted at International VLSI Design & Embedded Systems Conference <a
+              href="https://vlsid.org/">VLSID 2023</a></td>
+        </tr>
+        <tr>
+          <td>Sep-2022</td>
+          <td>1 paper accepted at Asia and South Pacific Design Automation Conference <a
+              href="https://www.aspdac.com/aspdac2023/">ASP-DAC 2023</a></td>
+        </tr>
+        <tr>
+          <td>Aug-2022</td>
+          <td>1 paper accepted at ACM Transactions on Architecture and Code Optimization <a
+              href="https://dl.acm.org/journal/taco">TACO 2022</a></td>
+        </tr>
+        <tr>
+          <td>Jun-2022</td>
+          <td>1 paper accepted at International Symposium on VLSI Design and Test <a
+              href="https://iitjammu.ac.in/vdat2022/">VDAT 2022</a></td>
+        </tr>
+        <tr>
+          <td>Apr-2022</td>
+          <td>Selected for DAC Young Fellow Program - <a href="https://www.dac.com/Attend/Students-Scholarships/Young-Student-Fellow-Program">DAC
+              2022</a></td>
+        </tr>
+        <tr>
+          <td>Apr-2022</td>
+          <td>2 works accepted for Poster Presentation at Design Automation Conference <a
+              href="https://www.dac.com/">DAC 2022</a></td>
+        </tr>
+        <tr>
+          <td>Jan-2022</td>
+          <td>Graduate Teaching Fellow (Instructor) for IC Design Lab at IIT Gandhinagar</td>
+        </tr>
+        <tr>
+          <td>Jan-2022</td>
+          <td>1 paper accepted at IEEE International Symposium on Circuits and Systems <a
+              href="https://www.iscas2022.org/">ISCAS 2022</a></td>
+        </tr>
+        <tr>
+          <td>Dec-2021</td>
+          <td>1 paper accepted at IEEE International Symposium on Quality Electronic Design <a
+              href="https://www.isqed.org/">ISQED 2022</a></td>
+        </tr>
+        <tr>
+          <td>Dec-2021</td>
+          <td>Best Research Video Award at the <a
+              href="https://www.dac.com/Attend/Students-Scholarships/Young-Student-Fellow-Program">DAC 2021 Young Fellows
+              Program</a> - <a href="https://www.youtube.com/watch?v=TPSk2_oONNQ&t=34s&ab_channel=KailashPrasad">Link to
+                the video</a></td>
+        </tr>
+        <tr>
+          <td>Nov-2021</td>
+          <td>Selected for DAC Young Fellow Program - <a href="https://www.dac.com/Attend/Students-Scholarships/Young-Student-Fellow-Program">DAC
+              2021</a></td>
+        </tr>
+        <tr>
+          <td>Sep-2021</td>
+          <td>1 paper accepted at IEEE International Conference on Electronics Circuits and Systems <a
+              href="https://www.ieeeicecs2021.com/">ICECS 2021</a></td>
+        </tr>
+        <tr>
+          <td>Oct-2020</td>
+          <td>Awarded the Prestigious Prime Minister's Research Fellowship (<a href="https://may2020.pmrf.in/">PMRF</a>)
+            2020</td>
+        </tr>
+        <tr>
+          <td>Aug-2020</td>
+          <td>Awarded the Prestigious Intel India Research Fellowship 2020</td>
+        </tr>
+        <tr>
+          <td>Apr-2020</td>
+          <td>Learn Python Programming during this COVID 19 Pandemic. <a
+              href="https://kailash-prasad.github.io/presentation/">Click Here</a></td>
+        </tr>
+        <tr>
+          <td>Jan-2020</td>
+          <td>2 papers accepted at IEEE International Symposium on Circuits and Systems <a
+              href="https://www.iscas2020.org/">ISCAS 2020</a></td>
+        </tr>
+        <tr>
+          <td>Jan-2020</td>
+          <td>Awarded travel grant from VLSID to attend <a
+              href="http://embeddedandvlsidesignconference.org/">VLSID 2020</a></td>
+        </tr>
+        <tr>
+          <td>May-2019</td>
+          <td>Awarded travel grant from ACM SIGARCH to attend <a href="https://iscaconf.org/isca2019/index.html">ISCA 2019
+              and uArch Workshop</a></td>
+        </tr>
+      </tbody>
+    </table>
 
-</div>
-<div class="datatable-end"></div>
+  </div>
+  <div class="datatable-end"></div>
 
 ## Research Interest
 <div style="text-align: justify; font-size: 16px;">
