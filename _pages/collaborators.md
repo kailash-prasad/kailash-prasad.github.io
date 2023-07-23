@@ -114,7 +114,6 @@ Present Collaborators
 Past Collaborators
 ===
 <style>
-<style>
   /* Custom CSS to add automatic numbering to the first column */
   table {
     counter-reset: row-counter;
@@ -126,6 +125,30 @@ Past Collaborators
 
   td:first-child::before {
     content: counter(row-counter);
+  }
+
+  /* Table styles */
+  table {
+    border-collapse: collapse;
+    border: 1px solid lightgray;
+    width: 100%;
+  }
+
+  th, td {
+    text-align: center;
+    padding: 8px;
+    border: 1px solid lightgray;
+  }
+
+  th {
+    background-color: lightgray;
+    font-weight: bold;
+  }
+
+  /* Caption */
+  caption {
+    font-size: 1.5em;
+    margin-bottom: 10px;
   }
 </style>
 
