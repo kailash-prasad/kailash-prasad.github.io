@@ -301,14 +301,64 @@ keywords:
 </div>
 
 
-## Work experience
+## Teaching and Research Experience
 
-<div class="datatable-begin"></div>
+ <div class="datatable-begin"></div>
+  <div class="table-wrapper">
 
-| Timeline     | Organisation |  Designation | Instructor/Supervisor | Topic/Course |
-| ---------------- | ----------------- | ------------ | ------------ | ------------ |
-| Jan 23 - Apr 23 | IIT Madras (NPTEL) |  Tutor | [Prof. Madhav Rao](https://www.iiitb.ac.in/faculty/madhav-rao) | Course : [Design and analysis of VLSI Subsystem](https://onlinecourses.nptel.ac.in/noc22_ee44/preview)-[Youtube Playlist](https://www.youtube.com/playlist?list=PL7N1sbWPuzeboQlS7dCIzhLWDFudJGMgH)
-| Jul 22 - Oct 22 | IIT Kharagpur (NPTEL) |  Tutor | [Prof. Santanu Chattopadhyay](http://www.iitkgp.ac.in/department/EC/faculty/ec-santanu) | Course : [Digital Circuits](https://onlinecourses.nptel.ac.in/noc22_ee110/course)-[Youtube Playlist](https://www.youtube.com/playlist?list=PL7N1sbWPuzeYVlEJZf8DJRdfToQi0xouX)
-| Jan 22 - Apr 22 | IIT Gandhinagar |  Graduate Teaching Fellow | [Prof. Joycee Mekie](https://joycee.people.iitgn.ac.in/) | Course : IC Design Lab
-| Aug 18 - Present | IIT Gandhinagar |  Teaching Assistant | [Prof. Joycee Mekie](https://joycee.people.iitgn.ac.in/) |  Course : Digital System, Embedded System, Microelectronics Lab, Computer Organisation and Architecture, VLSI Design, IC Design
-| May 17 - July 17 | IIT Kanpur | Student Research Associate | [Prof. Yogesh Singh Chauhan](http://home.iitk.ac.in/~chauhan/) | Topic : Compact Modelling and TCAD simulation of semiconductor devices.
+    <table>
+      <thead>
+        <tr>
+          <th>Timeline</th>
+          <th>Organisation</th>
+          <th>Designation</th>
+          <th>Instructor/Supervisor</th>
+          <th>Topic/Course</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Jan 23 - Apr 23</td>
+          <td>IIT Madras (NPTEL)</td>
+          <td>Tutor</td>
+          <td><a href="https://www.iiitb.ac.in/faculty/madhav-rao">Prof. Madhav Rao</a></td>
+          <td>Course : <a href="https://onlinecourses.nptel.ac.in/noc22_ee44/preview">Design and analysis of VLSI
+              Subsystem</a> - <a href="https://www.youtube.com/playlist?list=PL7N1sbWPuzeboQlS7dCIzhLWDFudJGMgH">Youtube
+              Playlist</a></td>
+        </tr>
+        <tr>
+          <td>Jul 22 - Oct 22</td>
+          <td>IIT Kharagpur (NPTEL)</td>
+          <td>Tutor</td>
+          <td><a href="http://www.iitkgp.ac.in/department/EC/faculty/ec-santanu">Prof. Santanu Chattopadhyay</a></td>
+          <td>Course : <a href="https://onlinecourses.nptel.ac.in/noc22_ee110/course">Digital Circuits</a> - <a
+              href="https://www.youtube.com/playlist?list=PL7N1sbWPuzeYVlEJZf8DJRdfToQi0xouX">Youtube Playlist</a></td>
+        </tr>
+        <tr>
+          <td>Jan 22 - Apr 22</td>
+          <td>IIT Gandhinagar</td>
+          <td>Graduate Teaching Fellow</td>
+          <td><a href="https://joycee.people.iitgn.ac.in/">Prof. Joycee Mekie</a></td>
+          <td>Course : IC Design Lab</td>
+        </tr>
+        <tr>
+          <td>Aug 18 - Present</td>
+          <td>IIT Gandhinagar</td>
+          <td>Teaching Assistant</td>
+          <td><a href="https://joycee.people.iitgn.ac.in/">Prof. Joycee Mekie</a></td>
+          <td>Course : Digital System, Embedded System, Microelectronics Lab, Computer Organisation and Architecture, VLSI
+            Design, IC Design</td>
+        </tr>
+        <tr>
+          <td>May 17 - July 17</td>
+          <td>IIT Kanpur</td>
+          <td>Student Research Associate</td>
+          <td><a href="http://home.iitk.ac.in/~chauhan/">Prof. Yogesh Singh Chauhan</a></td>
+          <td>Topic : Compact Modelling and TCAD simulation of semiconductor devices.</td>
+        </tr>
+      </tbody>
+    </table>
+
+  </div>
+  <div class="datatable-end"></div>
+
