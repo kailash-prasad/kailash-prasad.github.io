@@ -107,10 +107,6 @@ keywords:
       text-decoration: underline;
     }
 
-    .table-wrapper th,
-    .table-wrapper td {
-      font-size: 11px;
-    }
   </style>
 
 ## News and Highlights
