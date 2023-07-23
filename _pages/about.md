@@ -69,7 +69,6 @@ keywords:
 <!-- * <a href="https://github.com/ConstantNIT/kailashprasad/blob/master/_pages/CV_Kailash.pdf" target="_blank">Detailed CV</a> -->
   <style>
     body {
-      font-family: Arial, sans-serif;
       line-height: 1.6;
     }
 
@@ -86,7 +85,7 @@ keywords:
 
     .table-wrapper th,
     .table-wrapper td {
-      padding: 12px;
+      padding: 6px;
       text-align: left;
       border-bottom: 1px solid #ccc;
     }
@@ -106,6 +105,11 @@ keywords:
 
     .table-wrapper a:hover {
       text-decoration: underline;
+    }
+
+    .table-wrapper th,
+    .table-wrapper td {
+      font-size: 11px;
     }
   </style>
 
