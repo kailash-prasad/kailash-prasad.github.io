@@ -5,19 +5,20 @@
  *  Licenses - Font: SIL OFL 1.1, CSS: MIT License
  */
 @font-face {
-    font-family: 'Academicons';
+    font-family: 'Roboto', sans-serif;
 /*     font-family: "Times New Roman", Times, serif; */
-    src:url('../fonts/academicons.eot?v=1.8.0');
+	src:url('../fonts/Roboto-Regular.ttf');
+/*    src:url('../fonts/academicons.eot?v=1.8.0');
     src:url('../fonts/academicons.eot?v=1.8.0') format('embedded-opentype'),
         url('../fonts/academicons.ttf?v=1.8.0') format('truetype'),
         url('../fonts/academicons.woff?v=1.8.0') format('woff'),
-        url('../fonts/academicons.svg?v=1.8.0#academicons') format('svg');
+        url('../fonts/academicons.svg?v=1.8.0#academicons') format('svg');*/
     font-weight: normal;
     font-style: normal;
 }
 .ai {
 	display:inline-block;
-	font:normal normal normal 14px/1 Academicons;
+	font:normal normal normal 14px/1 Roboto;
 	font-size:inherit;
 	text-rendering:auto;
 	-webkit-font-smoothing:antialiased;
