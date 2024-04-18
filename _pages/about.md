@@ -21,37 +21,24 @@ keywords:
 ---
 
 <div style="text-align: justify; font-size: 16px;">
-
 <p>
-    I am Kailash Prasad, a Prime Minister Research Fellow at the <a href="https://iitgn.ac.in/">Indian Institute of Technology Gandhinagar</a>.
-    I completed my B.Tech. in Electronics and Communication Engineering from the National Institute of Technology Arunachal Pradesh in 2018, and I was awarded
-    Chairman and Institute Gold Medal for outstanding academic performance. Currently, I am pursuing Ph.D. in Electrical Engineering at the nanoDC Lab,
-    IIT Gandhinagar, under the guidance of <a href="https://joycee.people.iitgn.ac.in/">Prof. Joycee Mekie</a>.
+👋 Hello, I'm Kailash Prasad, a Design Engineer at ARM Noida within the Physical IP Group, working on SRAM Memory Design and Characterization in cutting-edge technology nodes like 2nm.
 </p>
-
 <p>
-    My research focuses on hardware for machine learning, in-memory computing,
-    approximate computing, CAD tool design, and SRAM memory subsystem design.
-    I am an SRC Research Scholar and the recipient of the Intel India Research Fellowship in 2020.
-    My work has been accepted and recognized in premier EDA conferences such as ASP-DAC and DATE,
-    with some papers receiving Best Paper Nominations.
-    I also serve as a reviewer for various conferences, including ISCAS, AICAS,
-    and journals such as IEEE TCAS I and TCAS II.
+🎓 In 2018, I graduated with a B.Tech. in Electronics and Communication Engineering from the National Institute of Technology Arunachal Pradesh, where I was honored with the Chairman and Institute Gold Medal for my outstanding academic performance.
 </p>
-
 <p>
-    I expertise in RTL to GDS flow for digital IC design, and I have had the opportunity
-    to lead a team of 15 people for two tapeouts in UMC 65nm in 2020 and 2022.
-    Additionally, I expertise in SRAM memory subsystem design for digital and analog
-    in-memory computing and physical unclonable function.
+🔬 In July 2023, I completed my Ph.D. in Electrical Engineering at the nanoDC Lab, <a href="https://iitgn.ac.in/">Indian Institute of Technology Gandhinagar</a>, under the guidance of <a href="https://joycee.people.iitgn.ac.in/">Prof. Joycee Mekie</a>. My research journey has been focused on hardware for machine learning, in-memory computing, approximate computing, CAD tool design, and SRAM memory subsystem design.
 </p>
-
 <p>
-    I am passionate about designing circuits, teaching microelectronics and VLSI,
-    and building an army of VLSI engineers.
-    During my tenure of Ph.D, I have been fortunate to have the opportunity to build
-    and lead teams, which has been an enriching experience.
+🏆 During my academic tenure, I served as a Prime Minister Research Fellow at the Indian Institute of Technology Gandhinagar, an SRC Research Scholar, and the recipient of the esteemed Intel India Research Fellowship in 2020. My research work gained recognition and acceptance at premier EDA conferences such as DAC, ASP-DAC, and DATE, with several of my papers receiving nominations for Best Paper. Additionally, I contributed to the academic community as a reviewer for renowned conferences, including ISCAS and AICAS, as well as esteemed journals, such as IEEE TCAS I, TVLSI and TCAS II.
 </p>
+<p>
+💡 My expertise extends to the complete RTL to GDS flow for digital IC design. In 2020 and 2022, I led a team of 15 students for two successful tapeouts in UMC 65nm technology. Additionally, I specialize in SRAM memory subsystem design for both digital and analog in-memory computing and physical unclonable function.
+</p>
+<p>
+📚 Beyond my research pursuits, I am fueled by a deep-seated passion for teaching microelectronics and VLSI. Guiding and nurturing the next generation of VLSI engineers is a personal mission I wholeheartedly embrace. Along my Ph.D. journey, I have had the incredible opportunity to build and lead teams, fostering an enriching environment for all.
+</p> 
 
 <p>
     My belief in the importance of perseverance and determination can be summarized
