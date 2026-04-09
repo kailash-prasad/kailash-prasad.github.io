@@ -22,7 +22,7 @@ keywords:
 
 <div style="text-align: justify; font-size: 16px;">
 <p>
-👋 Hello, I'm Kailash Prasad, a Design Engineer at ARM Noida within the Physical IP Group, working on SRAM Memory Design and Characterization in cutting-edge technology nodes like 2nm.
+👋 Hello, I'm Kailash Prasad, a Senior Design Engineer at ARM Noida within the Physical IP Group, working on SRAM Memory Design and Characterization in cutting-edge technology nodes like 2nm.
 </p>
 <p>
 🎓 In 2018, I graduated with a B.Tech. in Electronics and Communication Engineering from the National Institute of Technology Arunachal Pradesh, where I was honored with the Chairman and Institute Gold Medal for my outstanding academic performance.
