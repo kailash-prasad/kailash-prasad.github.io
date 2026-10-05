@@ -1,38 +1,14 @@
 ---
-layout: archive
-title: "Skills"
+layout: portfolio
+title: "Tools & expertise"
 permalink: /skills/
-author_profile: true
+description: "Memory circuit design, characterization, digital implementation, and the tools that connect them."
 ---
-
-<div style="text-align: justify; font-size: 16px;">
-    <h2>Technical and Soft Skills</h2>
-    <ul>
-        <li><strong>EDA Tools:</strong> Cadence Virtuoso, Calibre, Design Compiler, Genus, VCS, NCSIM, Innovus, Abstract, Liberate, Xilinx Vivado, MATLAB, Keil uVision, Sentaurus TCAD</li>
-        <li><strong>Programming:</strong> Python, Verilog, System Verilog, C, TCL, Bash, HTML/CSS</li>
-        <li><strong>Microcontroller:</strong> Raspberry Pi 3, ARM7, Arduino, AVR, ARM Cortex M0, 8085</li>
-        <li><strong>Sysadmin:</strong> Managed lab/system infrastructure, ensuring optimal functionality and availability for efficient operations</li>
-        <li><strong>Leadership:</strong> Lead teams of more than 14 members for two Tapeouts in UMC 65nm in 2020 and 2022</li>
-        <li><strong>Mentorship:</strong> Mentored more than 70 students, publishing with more than 15 students for work on circuit design, architecture, and tool design</li>
-    </ul>
-    
-    <h2>Relevant Courses Done</h2>
-    <ul>
-        <li>VLSI Design</li>
-        <li>Asynchronous Circuit Design</li>
-        <li>Physics of Transistors</li>
-        <li>Computer Architecture</li>
-        <li>Machine Learning</li>
-        <li>MicroFabrication and Semiconductor Processes</li>
-        <li>Computer Networking</li>
-        <li>Microelectronics Lab</li>
-        <li>IC Design Lab</li>
-        <li>Analog IC Design</li>
-        <li>Mathematical Foundation for Computer Vision</li>
-        <li>Physics of Two Dimensional Materials</li>
-    </ul>
+<div class="project-grid">
+<article class="project-card"><span class="eyebrow">01 / Memory circuits</span><h2>SRAM design & characterization</h2><p>Memory cells, peripheral circuits, sense amplifiers, and memory subsystems. Circuit sizing and simulation with a focus on performance, energy, and reliable operation.</p><div class="tags"><span>Cadence Virtuoso</span><span>Liberate</span><span>Calibre</span><span>Abstract</span></div></article>
+<article class="project-card"><span class="eyebrow">02 / Digital implementation</span><h2>RTL to GDS</h2><p>Experience across logic design, simulation, synthesis, and physical implementation, including two team tapeouts in UMC 65 nm.</p><div class="tags"><span>Design Compiler</span><span>Genus</span><span>VCS</span><span>NCSIM</span><span>Innovus</span><span>Xilinx Vivado</span></div></article>
+<article class="project-card"><span class="eyebrow">03 / Automation</span><h2>Programming & design tools</h2><p>Building simulators, automating EDA workflows, and exploring design spaces through scripting and custom tools.</p><div class="tags"><span>Python</span><span>Verilog</span><span>SystemVerilog</span><span>C</span><span>Tcl</span><span>Bash</span><span>MATLAB</span></div></article>
+<article class="project-card"><span class="eyebrow">04 / People & practice</span><h2>Leadership & mentorship</h2><p>Led teams of around 15 students for tapeouts in 2020 and 2022. Mentored more than 70 students and published research with more than 15 student collaborators.</p><a class="text-link" href="{{ '/collaborators/' | relative_url }}">Academic collaborations</a></article>
+<article class="project-card"><span class="eyebrow">05 / Devices & embedded systems</span><h2>From device physics to hardware</h2><p>Compact modelling and TCAD experience, alongside embedded platforms used in teaching and prototyping.</p><div class="tags"><span>Sentaurus TCAD</span><span>Keil µVision</span><span>Raspberry Pi</span><span>Arduino</span><span>AVR</span><span>Arm Cortex-M0</span><span>Arm7</span><span>8085</span></div></article>
+<article class="project-card"><span class="eyebrow">06 / Foundations</span><h2>Coursework & research grounding</h2><p>VLSI and asynchronous circuit design, transistor physics, computer architecture, analog IC design, microfabrication, machine learning, computer vision, computer networking, and two-dimensional materials.</p><a class="text-link" href="{{ '/resources/' | relative_url }}">Teaching resources</a></article>
 </div>
-
-
- 
-

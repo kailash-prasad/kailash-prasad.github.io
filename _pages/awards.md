@@ -1,13 +1,10 @@
 ---
-layout: archive
+layout: portfolio
 title: "Awards and Achievements"
 permalink: /awards/
-author_profile: true
-redirect_from:
-  - /resume
 ---
 
-<div style="text-align: justify; font-size: 16px;">
+<div>
     <h2>Fellowships and Grants</h2>
     <ul>
         <li>Jun 2023: Travel Grant to attend DAC 2023, San Francisco, California, USA (DAC 2023)</li>

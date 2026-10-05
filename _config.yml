@@ -14,7 +14,7 @@ locale                   : "en-US"
 title                    : "Kailash Prasad"
 title_separator          : "-"
 name                     : &name "Kailash Prasad"
-description              : &description "Kailash Prasad is Prime Minister Research Fellow and Intel India Research Fellow in the Discipline of Electrical Engineering at nanoDC Lab, IIT Gandhinagar"
+description              : &description "Kailash Prasad — Senior Design Engineer at Arm, SRAM researcher and VLSI educator. Ph.D., IIT Gandhinagar."
 url                      : https://kailashprasad.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #baseurl                  : "/personal" # the subpath of your site, e.g. "/blog"
 repository               : "kailash-prasad/kailash-prasad.github.io"
@@ -86,8 +86,8 @@ analytics:
 author:
   name             : "Kailash Prasad"
   avatar           : "kailash.jpg"
-  bio              : "PhD in Electrical Engineering | Prime Minister Research Fellow | Intel India Research Fellow"
-  location         : "nanoDC Lab, 5/207, IITGN"
+  bio              : "Senior Design Engineer at Arm | SRAM & in-memory computing | Ph.D., IIT Gandhinagar"
+  location         : "Noida, India"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=OIt7SosAAAAJ&hl=en"
@@ -100,7 +100,7 @@ author:
   flickr           :
   facebook         : "KailashPrasad.NIT"
   foursquare       :
-  github           : "bootloader-kp"
+  github           : "kailash-prasad"
   google_plus      :
   keybase          :
   instagram        :
@@ -200,7 +200,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: portfolio
       author_profile: true
       read_time: true
       comments: true
@@ -211,14 +211,14 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: single
+      layout: portfolio
       author_profile: true
   # _teaching
   - scope:
       path: ""
       type: teaching
     values:
-      layout: single
+      layout: portfolio
       author_profile: true
       share: true
       comments: true
@@ -227,7 +227,7 @@ defaults:
       path: ""
       type: publications
     values:
-      layout: single
+      layout: portfolio
       author_profile: true
       share: true
       comments: true
@@ -236,7 +236,7 @@ defaults:
       path: ""
       type: portfolio
     values:
-      layout: single
+      layout: portfolio
       author_profile: true
       share: true
       comment: true
@@ -245,7 +245,7 @@ defaults:
       path: ""
       type: talks
     values:
-      layout: talk
+      layout: portfolio
       author_profile: true
       share: true
 

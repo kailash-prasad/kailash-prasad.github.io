@@ -1,31 +1,20 @@
 ---
+layout: portfolio
 title: "Collaborators"
 permalink: /collaborators/
-author_profile: true
 ---
 
-Present Collaborators
+<p class="note">A record of academic collaborations and mentorship. Affiliations reflect the original archive and may have changed.</p>
+
+Research collaborators · 2017–2024
 ===
 
-<style>
-  /* Custom CSS to add automatic numbering to the first column */
-  table {
-    counter-reset: row-counter;
-  }
 
-  tr:not(:first-child) {
-    counter-increment: row-counter;
-  }
-
-  td:first-child::before {
-    content: counter(row-counter);
-  }
-</style>
 
 <div class="datatable-begin"></div>
 
 
-<table>
+<div class="table-scroll"><table>
 
   <tr>
     <th>#</th>
@@ -105,62 +94,25 @@ Present Collaborators
     <td>Intern</td>
     <td>2022-2024</td>
   </tr>
-</table>
+</table></div>
 
 <div class="datatable-end"></div>
 
 
 
-Past Collaborators
+Earlier collaborations
 ===
-<style>
-  /* Custom CSS to add automatic numbering to the first column */
-  table {
-    counter-reset: row-counter;
-  }
 
-  tr:not(:first-child) {
-    counter-increment: row-counter;
-  }
-
-  td:first-child::before {
-    content: counter(row-counter);
-  }
-
-  /* Table styles */
-  table {
-    border-collapse: collapse;
-    border: 1px solid lightgray;
-    width: 100%;
-  }
-
-  th, td {
-    text-align: center;
-    padding: 8px;
-    border: 1px solid lightgray;
-  }
-
-  th {
-    background-color: lightgray;
-    font-weight: bold;
-  }
-
-  /* Caption */
-  caption {
-    font-size: 1.5em;
-    margin-bottom: 10px;
-  }
-</style>
 
 <div class="datatable-begin"></div>
 
-<table>
+<div class="table-scroll"><table>
   <tr>
     <th>#</th>
     <th>Name</th>
     <th>Program</th>
     <th>Institute</th>
-    <th>Current Status</th>
+    <th>Role recorded in academic archive</th>
     <th>Year Of Graduation</th>
   </tr>
   <tr>
@@ -363,7 +315,7 @@ Past Collaborators
     <td>Software Development Engineer at Delhivery</td>
     <td>2019</td>
   </tr>
-</table>
+</table></div>
 
 
 
