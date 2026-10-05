@@ -24,7 +24,9 @@ jobs:
           test -f _site/assets/css/portfolio.css
           test -f _site/assets/js/portfolio.js
           test -f _site/CV_Kailash.pdf
+      - name: Package the site without renaming existing downloads
+        run: tar -czf redesigned-portfolio.tar.gz -C _site .
       - uses: actions/upload-artifact@v4
         with:
           name: redesigned-portfolio
-          path: _site
+          path: redesigned-portfolio.tar.gz
