@@ -1,31 +1,11 @@
-# main links links
 main:
-  - title: "Achievements"
-    url: /awards/
-
-  - title: "Publications"
-    url: /publications/
-
-  #- title: "Talks"
-  #  url: /talks/    
-
-  - title: "Research Projects"
-    url: /projects/    
-    
-  - title: "Skills"
-    url: /skills/
-    
-  - title: "Resources"
-    url: /resources/
-    
-  - title: "Gallery"
-    url: /gallery/
- 
-  - title: "Collaborators"
-    url: /collaborators/
-  
-  - title: "CV"
-    url: /cv/
-
-  - title: "DAC 2023"
-    url: /dac2023/
+- title: Research
+  url: /projects/
+- title: Publications
+  url: /publications/
+- title: Expertise
+  url: /skills/
+- title: Resources
+  url: /resources/
+- title: CV
+  url: /cv/

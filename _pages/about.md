@@ -1,351 +1,50 @@
 ---
+layout: portfolio
+home: true
 permalink: /
-author_profile: true
-description: "Kailash Prasad is Prime Minister Research Fellow and Intel India Research Fellow in the Discipline of Electrical Engineering at nanoDC Lab, IIT Gandhinagar."
-redirect_from: 
+description: "Kailash Prasad — Senior Design Engineer at Arm, SRAM and in-memory computing researcher, and VLSI educator. Ph.D., IIT Gandhinagar."
+redirect_from:
   - /about/
   - /about.html
-keywords:
-  - Kailash Prasad
-  - PMRF
-  - Prime Minister Research Fellow
-  - Intel 
-  - Intel India Reasearch Fellow
-  - IIT Gandhinagar
-  - NIT Arunachal Pradesh
-  - IIT Kanpur
-  - Kailash Prasad IIT Gandhinagar
-  - Kailash Prasad NIT Arunachal Pradesh
-  - Kailash Prasad Kendriya Vidyalaya Tenga Valley
-  - Kailash Prasad PhD in Electrical Engineering
 ---
-
-<div style="text-align: justify; font-size: 16px;">
-<p>
-👋 Hello, I'm Kailash Prasad, a Senior Design Engineer at ARM Noida within the Physical IP Group, working on SRAM Memory Design and Characterization in cutting-edge technology nodes like 2nm.
-</p>
-<p>
-🎓 In 2018, I graduated with a B.Tech. in Electronics and Communication Engineering from the National Institute of Technology Arunachal Pradesh, where I was honored with the Chairman and Institute Gold Medal for my outstanding academic performance.
-</p>
-<p>
-🔬 In July 2023, I completed my Ph.D. in Electrical Engineering at the nanoDC Lab, <a href="https://iitgn.ac.in/">Indian Institute of Technology Gandhinagar</a>, under the guidance of <a href="https://joycee.people.iitgn.ac.in/">Prof. Joycee Mekie</a>. My research journey has been focused on hardware for machine learning, in-memory computing, approximate computing, CAD tool design, and SRAM memory subsystem design.
-</p>
-<p>
-🏆 During my academic tenure, I served as a Prime Minister Research Fellow at the Indian Institute of Technology Gandhinagar, an SRC Research Scholar, and the recipient of the esteemed Intel India Research Fellowship in 2020. My research work gained recognition and acceptance at premier EDA conferences such as DAC, ASP-DAC, and DATE, with several of my papers receiving nominations for Best Paper. Additionally, I contributed to the academic community as a reviewer for renowned conferences, including ISCAS and AICAS, as well as esteemed journals, such as IEEE TCAS I, TVLSI and TCAS II.
-</p>
-<p>
-💡 My expertise extends to the complete RTL to GDS flow for digital IC design. In 2020 and 2022, I led a team of 15 students for two successful tapeouts in UMC 65nm technology. Additionally, I specialize in SRAM memory subsystem design for both digital and analog in-memory computing and physical unclonable function.
-</p>
-<p>
-📚 Beyond my research pursuits, I am fueled by a deep-seated passion for teaching microelectronics and VLSI. Guiding and nurturing the next generation of VLSI engineers is a personal mission I wholeheartedly embrace. Along my Ph.D. journey, I have had the incredible opportunity to build and lead teams, fostering an enriching environment for all.
-</p> 
-
-<p>
-    My belief in the importance of perseverance and determination can be summarized
-    with this quote:
-    <blockquote>
-        "Overcoming barriers may require us to take different paths - sometimes we cross over,
-        sometimes we tunnel through, and sometimes we break them down altogether.
-        But with determination and a willingness to explore new avenues, we can always reach our destination."
-        - KP
-    </blockquote>
-</p>
-
-
-</div>
-<!-- * <a href="https://github.com/ConstantNIT/kailashprasad/blob/master/_pages/CV_Kailash.pdf" target="_blank">Detailed CV</a> -->
-  <style>
-    body {
-      line-height: 1.6;
-    }
-
-    .table-wrapper {
-      max-width: 800px;
-      margin: 0 auto;
-      border-collapse: collapse;
-    }
-
-    .table-wrapper table {
-      width: 100%;
-      border: 1px solid #ccc;
-    }
-
-    .table-wrapper th,
-    .table-wrapper td {
-      padding: 6px;
-      text-align: left;
-      border-bottom: 1px solid #ccc;
-    }
-
-    .table-wrapper th {
-      background-color: #f2f2f2;
-    }
-
-    .table-wrapper tbody tr:hover {
-      background-color: #f9f9f9;
-    }
-
-    .table-wrapper a {
-      color: #007bff;
-      text-decoration: none;
-    }
-
-    .table-wrapper a:hover {
-      text-decoration: underline;
-    }
-
-  </style>
-
-## News and Highlights
-
-  <div class="datatable-begin"></div>
-  <div class="table-wrapper">
-
-    <table>
-      <thead>
-        <tr>
-          <th>Timeline</th>
-          <th>News</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td>Jun-2023</td>
-          <td>Awarded ACM SIGDA and IEEE CEDA travel grant from DAC to attend <a href="https://www.dac.com/">DAC 2023</a>
-          </td>
-        </tr>
-        <tr>
-          <td>Jun-2023</td>
-          <td>PhD thesis extended abstract has been accepted to Design Automation Conference <a
-              href="https://www.dac.com/Attend/Students-Scholarships/PhD-Forum">DAC'23 PhD Forum</a>.</td>
-        </tr>
-        <tr>
-          <td>Apr-2023</td>
-          <td>Paper Titled "PVC-RAM: Process Variation Aware Charge Domain In-Memory Computing 6T-SRAM for DNNs" has been
-            accepted to Design Automation Conference <a href="https://www.dac.com/">DAC 2023</a></td>
-        </tr>
-        <tr>
-          <td>Apr-2023</td>
-          <td>WiP Poster Titled "WA-PUF: Write-Assist Augmentation of Sequence Dependent SRAM PUF for Enhanced Randomness
-            and Uniqueness" has been accepted to Design Automation Conference <a href="https://www.dac.com/">DAC 2023</a>
-          </td>
-        </tr>
-        <tr>
-          <td>Mar-2023</td>
-          <td>Awarded travel grant from DATE to attend <a href="https://www.date-conference.com/">DATE 2023</a></td>
-        </tr>
-        <tr>
-          <td>Jan-2023</td>
-          <td>Paper Titled "Process Variation Resilient Current-Domain Analog In Memory Computing" has been accepted to
-            Design Automation and Test in Europe Conference <a href="https://www.date-conference.com/">DATE 2023</a>.</td>
-        </tr>
-        <tr>
-          <td>Dec-2022</td>
-          <td>PhD thesis extended abstract has been accepted to Design Automation and Test in Europe Conference <a
-              href="https://www.date-conference.com/phd-forum-call-for-submission">DATE'23 PhD Forum</a>.</td>
-        </tr>
-        <tr>
-          <td>Dec-2022</td>
-          <td>Paper Titled "HyGain: High Performance, Energy-Efficient Hybrid Gain Cell based Cache Hierarchy" has been
-            selected to appear in the <a href="https://www.growkudos.com/showcase/">Association for Computing Machinery
-              (ACM) Showcase on Kudos</a>.</td>
-        </tr>
-        <tr>
-          <td>Nov-2022</td>
-          <td>Paper Titled "PIC-RAM: Process-Invariant Capacitive Multiplier Based Analog In Memory Computing in 6T SRAM"
-            has been accepted to Design Automation and Test in Europe Conference <a
-              href="https://www.date-conference.com/">DATE 2023</a>. It has also been nominated for Best Paper Award.
-          </td>
-        </tr>
-        <tr>
-          <td>Nov-2022</td>
-          <td>Paper Titled "Hardware-Software Codesign of DNN Accelerators using Approximate Posit Multipliers" to be
-            presented at <a href="https://www.aspdac.com/aspdac2023/">ASP-DAC 2023</a> has been nominated for Best Paper
-            Award.</td>
-        </tr>
-        <tr>
-          <td>Nov-2022</td>
-          <td>Proposal Titled "Fast and Efficient ML Hardware Accelerator Designs for SoCs with integrated FPGA" has been
-            accepted to <a href="https://vlsid.org/design-contest/">VLSID Design Contest 2023</a></td>
-        </tr>
-        <tr>
-          <td>Oct-2022</td>
-          <td>Received Outstanding Graduate Teaching Fellow Award for Teaching IC Design Course</td>
-        </tr>
-        <tr>
-          <td>Oct-2022</td>
-          <td>1 paper accepted at International VLSI Design & Embedded Systems Conference <a
-              href="https://vlsid.org/">VLSID 2023</a></td>
-        </tr>
-        <tr>
-          <td>Sep-2022</td>
-          <td>1 paper accepted at Asia and South Pacific Design Automation Conference <a
-              href="https://www.aspdac.com/aspdac2023/">ASP-DAC 2023</a></td>
-        </tr>
-        <tr>
-          <td>Aug-2022</td>
-          <td>1 paper accepted at ACM Transactions on Architecture and Code Optimization <a
-              href="https://dl.acm.org/journal/taco">TACO 2022</a></td>
-        </tr>
-        <tr>
-          <td>Jun-2022</td>
-          <td>1 paper accepted at International Symposium on VLSI Design and Test <a
-              href="https://iitjammu.ac.in/vdat2022/">VDAT 2022</a></td>
-        </tr>
-        <tr>
-          <td>Apr-2022</td>
-          <td>Selected for DAC Young Fellow Program - <a href="https://www.dac.com/Attend/Students-Scholarships/Young-Student-Fellow-Program">DAC
-              2022</a></td>
-        </tr>
-        <tr>
-          <td>Apr-2022</td>
-          <td>2 works accepted for Poster Presentation at Design Automation Conference <a
-              href="https://www.dac.com/">DAC 2022</a></td>
-        </tr>
-        <tr>
-          <td>Jan-2022</td>
-          <td>Graduate Teaching Fellow (Instructor) for IC Design Lab at IIT Gandhinagar</td>
-        </tr>
-        <tr>
-          <td>Jan-2022</td>
-          <td>1 paper accepted at IEEE International Symposium on Circuits and Systems <a
-              href="https://www.iscas2022.org/">ISCAS 2022</a></td>
-        </tr>
-        <tr>
-          <td>Dec-2021</td>
-          <td>1 paper accepted at IEEE International Symposium on Quality Electronic Design <a
-              href="https://www.isqed.org/">ISQED 2022</a></td>
-        </tr>
-        <tr>
-          <td>Dec-2021</td>
-          <td>Best Research Video Award at the <a
-              href="https://www.dac.com/Attend/Students-Scholarships/Young-Student-Fellow-Program">DAC 2021 Young Fellows
-              Program</a> - <a href="https://www.youtube.com/watch?v=TPSk2_oONNQ&t=34s&ab_channel=KailashPrasad">Link to
-                the video</a></td>
-        </tr>
-        <tr>
-          <td>Nov-2021</td>
-          <td>Selected for DAC Young Fellow Program - <a href="https://www.dac.com/Attend/Students-Scholarships/Young-Student-Fellow-Program">DAC
-              2021</a></td>
-        </tr>
-        <tr>
-          <td>Sep-2021</td>
-          <td>1 paper accepted at IEEE International Conference on Electronics Circuits and Systems <a
-              href="https://www.ieeeicecs2021.com/">ICECS 2021</a></td>
-        </tr>
-        <tr>
-          <td>Oct-2020</td>
-          <td>Awarded the Prestigious Prime Minister's Research Fellowship (<a href="https://may2020.pmrf.in/">PMRF</a>)
-            2020</td>
-        </tr>
-        <tr>
-          <td>Aug-2020</td>
-          <td>Awarded the Prestigious Intel India Research Fellowship 2020</td>
-        </tr>
-        <tr>
-          <td>Apr-2020</td>
-          <td>Learn Python Programming during this COVID 19 Pandemic. <a
-              href="https://kailash-prasad.github.io/presentation/">Click Here</a></td>
-        </tr>
-        <tr>
-          <td>Jan-2020</td>
-          <td>2 papers accepted at IEEE International Symposium on Circuits and Systems <a
-              href="https://www.iscas2020.org/">ISCAS 2020</a></td>
-        </tr>
-        <tr>
-          <td>Jan-2020</td>
-          <td>Awarded travel grant from VLSID to attend <a
-              href="http://embeddedandvlsidesignconference.org/">VLSID 2020</a></td>
-        </tr>
-        <tr>
-          <td>May-2019</td>
-          <td>Awarded travel grant from ACM SIGARCH to attend <a href="https://iscaconf.org/isca2019/index.html">ISCA 2019
-              and uArch Workshop</a></td>
-        </tr>
-      </tbody>
-    </table>
-
+<section class="hero container">
+  <div>
+    <div class="eyebrow">Memory designer · Researcher · Educator</div>
+    <h1>Small circuits.<br>Big possibilities<em>.</em></h1>
+    <p class="intro">I'm <strong>Kailash Prasad</strong>. I design SRAM at <strong>Arm</strong>, explore computing inside memory, and share what I learn about the chips that power our world.</p>
+    <div class="actions"><a class="button primary" href="{{ '/projects/' | relative_url }}">Explore my work</a><a class="button" href="{{ '/publications/' | relative_url }}">Read my research</a></div>
   </div>
-  <div class="datatable-end"></div>
-
-## Research Interest
-<div style="text-align: justify; font-size: 16px;">
-    <ul>
-          <li>Memory Centric Circuits and Architectures</li>
-          <li>Approximate Circuits and Architectures for Machine Learning</li>
-          <li>Hardware Design for Posit Number System</li>
-          <li>AI Based Hardware Design</li>
-          <li>SRAM Peripherals and Memory Subsystem Design</li>
-    </ul>
-</div>
-
-## Education
-<div style="text-align: justify; font-size: 16px;">
-    <ul>
-        <li><strong>Ph.D in Electrical Engineering</strong>, IIT Gandhinagar, 2018 - Present</li>
-        <li><strong>B.Tech in Electronics and Communication Engineering</strong>, NIT Arunachal Pradesh, 2018</li>
-    </ul>
-</div>
-
-
-## Teaching and Research Experience
-
- <div class="datatable-begin"></div>
-  <div class="table-wrapper">
-
-    <table>
-      <thead>
-        <tr>
-          <th>Timeline</th>
-          <th>Organisation</th>
-          <th>Designation</th>
-          <th>Instructor/Supervisor</th>
-          <th>Topic/Course</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td>Jan 23 - Apr 23</td>
-          <td>IIT Madras (NPTEL)</td>
-          <td>Tutor</td>
-          <td><a href="https://www.iiitb.ac.in/faculty/madhav-rao">Prof. Madhav Rao</a></td>
-          <td>Course : <a href="https://onlinecourses.nptel.ac.in/noc22_ee44/preview">Design and analysis of VLSI
-              Subsystem</a> - <a href="https://www.youtube.com/playlist?list=PL7N1sbWPuzeboQlS7dCIzhLWDFudJGMgH">Youtube
-              Playlist</a></td>
-        </tr>
-        <tr>
-          <td>Jul 22 - Oct 22</td>
-          <td>IIT Kharagpur (NPTEL)</td>
-          <td>Tutor</td>
-          <td><a href="http://www.iitkgp.ac.in/department/EC/faculty/ec-santanu">Prof. Santanu Chattopadhyay</a></td>
-          <td>Course : <a href="https://onlinecourses.nptel.ac.in/noc22_ee110/course">Digital Circuits</a> - <a
-              href="https://www.youtube.com/playlist?list=PL7N1sbWPuzeYVlEJZf8DJRdfToQi0xouX">Youtube Playlist</a></td>
-        </tr>
-        <tr>
-          <td>Jan 22 - Apr 22</td>
-          <td>IIT Gandhinagar</td>
-          <td>Graduate Teaching Fellow</td>
-          <td><a href="https://joycee.people.iitgn.ac.in/">Prof. Joycee Mekie</a></td>
-          <td>Course : IC Design Lab</td>
-        </tr>
-        <tr>
-          <td>Aug 18 - Present</td>
-          <td>IIT Gandhinagar</td>
-          <td>Teaching Assistant</td>
-          <td><a href="https://joycee.people.iitgn.ac.in/">Prof. Joycee Mekie</a></td>
-          <td>Course : Digital System, Embedded System, Microelectronics Lab, Computer Organisation and Architecture, VLSI
-            Design, IC Design</td>
-        </tr>
-        <tr>
-          <td>May 17 - July 17</td>
-          <td>IIT Kanpur</td>
-          <td>Student Research Associate</td>
-          <td><a href="http://home.iitk.ac.in/~chauhan/">Prof. Yogesh Singh Chauhan</a></td>
-          <td>Topic : Compact Modelling and TCAD simulation of semiconductor devices.</td>
-        </tr>
-      </tbody>
-    </table>
-
+  <figure class="portrait"><img src="{{ '/images/kailash.jpg' | relative_url }}" alt="Kailash Prasad" width="540" height="540" fetchpriority="high"><figcaption><div><strong>Kailash Prasad</strong><span>Senior Design Engineer · Arm, Noida</span></div><span class="caption-index" aria-hidden="true">01 / KP</span></figcaption></figure>
+</section>
+<div class="credibility container"><span class="eyebrow">Across industry<br>and academia</span><strong>Arm<small>Memory design</small></strong><strong>IIT Gandhinagar<small>Ph.D. · Electrical Engineering</small></strong><strong>PMRF<small>Research fellowship</small></strong><strong>Intel<small>India Research Fellowship</small></strong></div>
+<section class="section container" id="work">
+  <div class="section-top"><div><p class="eyebrow">What I work on</p><h2>From the memory cell<br>to the bigger picture.</h2></div><a class="text-link" href="{{ '/skills/' | relative_url }}">Tools & expertise</a></div>
+  <div class="expertise">
+    <article><span class="number">01 / DESIGN</span><h3>SRAM & memory systems</h3><p>Memory circuit design and characterization at advanced technology nodes. Finding the balance between performance, power, area, and robust operation.</p><div class="tags"><span>SRAM</span><span>Circuit design</span><span>Characterization</span></div></article>
+    <article><span class="number">02 / RESEARCH</span><h3>Computing in memory</h3><p>Analog and digital approaches that bring computation closer to data, alongside approximate arithmetic and energy-efficient hardware for machine learning.</p><div class="tags"><span>In-memory computing</span><span>AI hardware</span><span>Approximate computing</span></div></article>
+    <article><span class="number">03 / SHARE</span><h3>Making VLSI accessible</h3><p>Teaching, mentoring, and explaining semiconductor ideas through practical examples. Helping students connect the theory to how circuits actually work.</p><div class="tags"><span>Teaching</span><span>Mentorship</span><span>Technical writing</span></div></article>
   </div>
-  <div class="datatable-end"></div>
-
+</section>
+<section class="research-band"><div class="section container">
+  <div class="section-top"><div><p class="eyebrow">Selected research</p><h2>Ideas built around memory.</h2></div><a class="text-link" href="{{ '/publications/' | relative_url }}">All publications</a></div>
+  <div class="research-grid">
+    <article class="research-card featured"><span class="eyebrow">Analog in-memory computing</span><span class="badge">DATE 2023 · Best Paper Candidate</span><h3>PIC-RAM</h3><p>A process-invariant capacitive multiplier for analog in-memory computing in 6T SRAM. Exploring how memory can do more than store data.</p><div class="feature-bottom"><div><strong>6T SRAM</strong><span>Memory as a compute substrate</span></div><a class="text-link" href="{{ '/publications/#pic-ram' | relative_url }}">View publication</a></div></article>
+    <article class="research-card"><span class="eyebrow">Variation-aware design · DAC 2023</span><h3>PVC-RAM</h3><p>Charge-domain in-memory computing designed to account for process variation in SRAM-based DNN hardware.</p><a class="text-link" href="{{ '/publications/#pvc-ram' | relative_url }}">View publication</a></article>
+    <article class="research-card"><span class="eyebrow">Hardware–software codesign · ASP-DAC 2023</span><h3>Approximate posit multipliers</h3><p>Rethinking arithmetic for DNN accelerators through a joint view of numerical accuracy and hardware efficiency.</p><a class="text-link" href="{{ '/publications/#posit' | relative_url }}">View publication</a></article>
+  </div>
+</div></section>
+<section class="section container journey" id="about">
+  <div><p class="eyebrow">My journey</p><h2>Curiosity.<br>Circuits.<br>People.</h2><p class="lead">From Arunachal Pradesh to IIT Gandhinagar and Arm, memory has become the thread connecting my engineering and research.</p><p>I earned my Ph.D. under <a href="https://joycee.people.iitgn.ac.in/">Prof. Joycee Mekie</a> at the nanoDC Lab. Along the way, I led teams through two UMC 65 nm tapeouts and found a lasting interest in teaching and mentorship.</p><a class="text-link" href="{{ '/cv/' | relative_url }}">View my CV</a></div>
+  <div class="timeline">
+    <article><time>2023 — Present</time><div><h3>Designing memory at Arm</h3><p>Senior Design Engineer, Physical IP Group · Noida.<br>SRAM design and characterization at advanced nodes.</p></div></article>
+    <article><time>2018 — 2024</time><div><h3>Ph.D. · IIT Gandhinagar</h3><p>Electrical Engineering, nanoDC Lab.<br>In-memory computing, approximate computing, and memory systems.</p></div></article>
+    <article><time>2020 & 2022</time><div><h3>Two UMC 65 nm tapeouts</h3><p>Led a team of around 15 students through the design and implementation of integrated circuits.</p></div></article>
+    <article><time>2014 — 2018</time><div><h3>B.Tech. · NIT Arunachal Pradesh</h3><p>Electronics & Communication Engineering.<br>Chairman Gold Medal and Institute Gold Medal.</p></div></article>
+  </div>
+</section>
+<section class="container teaching-panel">
+  <div><p class="eyebrow">Knowledge is better shared</p><h2>Beyond the lab<br>and the layout.</h2><p>I've mentored more than 70 students, taught IC design, and supported NPTEL courses in digital circuits and VLSI subsystems. Here are a few resources from that journey.</p><a class="text-link" href="{{ '/resources/' | relative_url }}">Browse learning resources</a></div>
+  <div class="resource-list"><a href="{{ '/resources/#memory' | relative_url }}">Breaking the memory wall for AI <small>Presentation</small></a><a href="{{ '/resources/#approximation' | relative_url }}">The art of approximate computing <small>Presentation</small></a><a href="{{ '/resources/#verilog' | relative_url }}">Verilog & an introduction to FPGA <small>Tutorial</small></a><a href="https://www.linkedin.com/in/kailash-prasad/">Semiconductors, explained simply <small>LinkedIn</small></a></div>
+</section>
+<section class="section container"><div class="section-top"><div><p class="eyebrow">Recognition & service</p><h2>Research is a team effort.</h2></div><a class="text-link" href="{{ '/awards/' | relative_url }}">Awards & fellowships</a></div><div class="expertise"><article><span class="number">FELLOWSHIPS</span><h3>PMRF & Intel</h3><p>Prime Minister's Research Fellow, Intel India Research Fellow, and SRC Research Scholar during my doctoral research.</p></article><article><span class="number">TEACHING</span><h3>Outstanding Teaching Fellow</h3><p>Recognized by IIT Gandhinagar in 2022 for teaching the IC Design course.</p></article><article><span class="number">COMMUNITY</span><h3>Conference service & mentoring</h3><p>Track Chair for ULSI Circuits, System-on-Chip, and Power SoC at ICEE 2025, alongside research reviewing and student collaborations.</p><a class="text-link" href="{{ '/collaborators/' | relative_url }}">Meet my collaborators</a></article></div></section>
+<section class="connect" id="connect"><div class="container"><div><p class="eyebrow">Let's connect</p><h2>A good conversation<br>can start something.</h2><p>For research discussions, invited talks, or conversations about memory design and VLSI education.</p><div class="connect-links"><a href="https://scholar.google.com/citations?user=OIt7SosAAAAJ&hl=en">Google Scholar</a><a href="https://orcid.org/0000-0002-4873-7728">ORCID</a><a href="https://github.com/kailash-prasad">GitHub</a><a href="mailto:kailash.prasad@iitgn.ac.in">Email</a></div></div><a class="button" href="https://www.linkedin.com/in/kailash-prasad/">Connect on LinkedIn</a></div></section>

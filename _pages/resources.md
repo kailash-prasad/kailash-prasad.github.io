@@ -1,44 +1,15 @@
 ---
-layout: archive
-title: Resources
+layout: portfolio
+title: "Learning resources"
 permalink: /resources/
-author_profile: true
+description: "Presentations and tutorials for students, engineers, and anyone curious about VLSI."
 ---
-<div style="text-align: justify; font-size: 16px;">
-    <h2>Presentations</h2>
-    <ul>
-        <li><a href="https://github.com/ConstantNIT/kailashprasad/blob/master/_pages/Getting%20Close%20Enough%20(2%20%2B%202%20%3D%205)%3A%20The%20Art%20of%20Approximate%20Computing.pdf" target="_blank" data-toggle="modal" data-target="#myModal">Getting Close Enough (2 + 2 = 5): The Art of Approximate Computing</a></li>
-        <li><a href="https://github.com/ConstantNIT/kailashprasad/blob/master/_pages/IMC_HBM.pdf" target="_blank" data-toggle="modal" data-target="#myModal">Breaking the memory-wall for AI: In-memory compute, HBMs or both?</a></li>
-        <li><a href="https://github.com/ConstantNIT/kailashprasad/blob/master/_pages/Fabrication.pdf" target="_blank" data-toggle="modal" data-target="#myModal">Floating Gate Flash Memory</a></li>
-        <li><a href="https://github.com/ConstantNIT/kailashprasad/blob/master/_pages/ApproximateComputing.pdf" target="_blank" data-toggle="modal" data-target="#myModal">The Idea of Approximation: From ancient India to Modern World</a></li>
-    </ul>
-    
-    <h2>Tutorials</h2>
-    <ul>
-        <li><a href="https://github.com/bootloader-kp/python-tutorial" target="_blank" data-toggle="modal" data-target="#myModal">Python Video Tutorial Series: From Basics to Advanced</a></li>
-        <li><a href="https://github.com/ConstantNIT/kailashprasad/blob/master/_pages/VerilogTutorial.pdf" target="_blank" data-toggle="modal" data-target="#myModal">Verilog Tutorial and An Introduction to FPGA</a></li>
-        <li><a href="https://github.com/ConstantNIT/kailashprasad/blob/master/_pages/C_Programming.pdf" target="_blank" data-toggle="modal" data-target="#myModal">A Quick Introduction to C Programming</a></li>
-    </ul>
-    
-    <h2>Events</h2>
-    <ul>
-        <li>Interaction with NIT Arunachal Pradesh Students on Thursday May 21, 2020 at 3 PM<br>
-            <a href="https://meet.google.com/egr-gjrd-hms" target="_blank" data-toggle="modal" data-target="#myModal">Join Video Conference</a>
-        </li>
-    </ul>
-</div>
 
-<!-- Modal -->
-<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-    <div class="modal-dialog modal-lg">
-        <div class="modal-content">
-            <div class="modal-header">
-                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-            </div>
-            <div class="modal-body">
-                <iframe src="" style="width: 100%; height: 500px;"></iframe>
-            </div>
-        </div>
-    </div>
-</div>
-
+<div class="resource-grid"><article class="resource-card" id="memory"><span class="eyebrow">Presentation / PDF</span><h2>Breaking the memory wall for AI</h2><p>In-memory compute, high-bandwidth memory, or both? A look at the memory bottleneck in AI hardware.</p><a class="text-link" href="https://github.com/kailash-prasad/kailash-prasad.github.io/blob/master/_pages/IMC_HBM.pdf">Open presentation</a></article>
+<article class="resource-card" id="approximation"><span class="eyebrow">Presentation / PDF</span><h2>The art of approximate computing</h2><p>Getting Close Enough (2 + 2 = 5): The Art of Approximate Computing.</p><a class="text-link" href="https://github.com/kailash-prasad/kailash-prasad.github.io/blob/master/_pages/Getting%20Close%20Enough%20%282%20%2B%202%20%3D%205%29%3A%20The%20Art%20of%20Approximate%20Computing.pdf">Open presentation</a></article>
+<article class="resource-card" id="history"><span class="eyebrow">Presentation / PDF</span><h2>The idea of approximation</h2><p>From ancient India to the modern world: a broader perspective on approximation.</p><a class="text-link" href="https://github.com/kailash-prasad/kailash-prasad.github.io/blob/master/_pages/ApproximateComputing.pdf">Open presentation</a></article>
+<article class="resource-card" id="flash"><span class="eyebrow">Presentation / PDF</span><h2>Floating-gate flash memory</h2><p>An introduction to flash memory and its fabrication.</p><a class="text-link" href="https://github.com/kailash-prasad/kailash-prasad.github.io/blob/master/_pages/Fabrication.pdf">Open presentation</a></article>
+<article class="resource-card" id="verilog"><span class="eyebrow">Tutorial / PDF</span><h2>Verilog & FPGA fundamentals</h2><p>Verilog Tutorial and An Introduction to FPGA.</p><a class="text-link" href="https://github.com/kailash-prasad/kailash-prasad.github.io/blob/master/_pages/VerilogTutorial.pdf">Open presentation</a></article>
+<article class="resource-card" id="c"><span class="eyebrow">Tutorial / PDF</span><h2>A quick introduction to C</h2><p>Programming fundamentals for students starting their engineering journey.</p><a class="text-link" href="https://github.com/kailash-prasad/kailash-prasad.github.io/blob/master/_pages/C_Programming.pdf">Open presentation</a></article>
+<article class="resource-card"><span class="eyebrow">Tutorial / Video series</span><h2>Python, from basics to advanced</h2><p>My programming tutorial series, with resources available on GitHub.</p><a class="text-link" href="https://github.com/bootloader-kp/python-tutorial">Explore Python tutorials</a></article>
+<article class="resource-card"><span class="eyebrow">Teaching / NPTEL</span><h2>Digital circuits & VLSI subsystems</h2><p>Course support and tutorial videos from my NPTEL teaching work.</p><a class="text-link" href="https://www.youtube.com/playlist?list=PL7N1sbWPuzeboQlS7dCIzhLWDFudJGMgH">VLSI subsystem videos</a><br><a class="text-link" href="https://www.youtube.com/playlist?list=PL7N1sbWPuzeYVlEJZf8DJRdfToQi0xouX">Digital circuit videos</a></article></div>

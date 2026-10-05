@@ -1,4 +1,5 @@
 ---
+layout: portfolio
 permalink: /semiconductorilife/
 title: "Semiconductor - Life"
 ---
