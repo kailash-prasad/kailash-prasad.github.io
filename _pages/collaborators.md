@@ -17,79 +17,66 @@ Research collaborators · 2017–2024
 <div class="table-scroll"><table>
 
   <tr>
-    <th>#</th>
     <th>Name</th>
     <th>Program</th>
     <th>Batch</th>
   </tr>
   <tr>
-    <td></td>
     <td>Tom Glint</td>
     <td>PhD</td>
     <td>2017-2023</td>
   </tr>
   <tr>
-    <td></td>
     <td>Prateek Sharma</td>
     <td>M.Tech</td>
     <td>2022 - 2024</td>
   </tr>
   <tr>
-    <td></td>
     <td>Pradyumna Pandey</td>
     <td>M.Tech</td>
     <td>2022 - 2024</td>
   </tr>
   <tr>
-    <td></td>
     <td>Neel Shah</td>
     <td>B.Tech</td>
     <td>2020 - 2024</td>
   </tr>
   <tr>
-    <td></td>
     <td>Jinay Dagli</td>
     <td>B.Tech</td>
     <td>2020 - 2024</td>
   </tr>
   <tr>
-    <td></td>
     <td>Patel Vrajesh</td>
     <td>B.Tech</td>
     <td>2020 - 2024</td>
   </tr>
   <tr>
-    <td></td>
     <td>Aryan Gupta</td>
     <td>B.Tech</td>
     <td>2020 - 2024</td>
   </tr>
   <tr>
-    <td></td>
     <td>Nitesh Maurya</td>
     <td>B.Tech</td>
     <td>2020 - 2024</td>
   </tr>
   <tr>
-    <td></td>
     <td>Shanmukhi Ganesh Sai</td>
     <td>B.Tech</td>
     <td>2020 - 2024</td>
   </tr>
   <tr>
-    <td></td>
     <td>Ruchit Chudasma</td>
     <td>B.Tech</td>
     <td>2020 - 2024</td>
   </tr> 
   <tr>
-    <td></td>
     <td>Sukanya More</td>
     <td>B.Tech</td>
     <td>2020 - 2024</td>
   </tr>
   <tr>
-    <td></td>
     <td>Krishil Gandhi</td>
     <td>Intern</td>
     <td>2022-2024</td>
@@ -108,7 +95,6 @@ Earlier collaborations
 
 <div class="table-scroll"><table>
   <tr>
-    <th>#</th>
     <th>Name</th>
     <th>Program</th>
     <th>Institute</th>
@@ -116,7 +102,6 @@ Earlier collaborations
     <th>Year Of Graduation</th>
   </tr>
   <tr>
-    <td></td>
     <td>Alok Pradhan</td>
     <td>M.Tech</td>
     <td>IIT Gandhinagar</td>
@@ -124,7 +109,6 @@ Earlier collaborations
     <td>2023</td>
   </tr>
   <tr>
-    <td></td>
     <td>Yaswanth Mittapalli</td>
     <td>M.Tech</td>
     <td>IIT Gandhinagar</td>
@@ -140,7 +124,6 @@ Earlier collaborations
     <td>2023</td>
   </tr>
   <tr>
-    <td></td>
     <td>Earandi Saineeth</td>
     <td>B.Tech</td>
     <td>IIT Gandhinagar</td>
@@ -148,7 +131,6 @@ Earlier collaborations
     <td>2023</td>
   </tr>
   <tr>
-    <td></td>
     <td>Shubham Pandit</td>
     <td>B.Tech</td>
     <td>IIT Gandhinagar</td>
@@ -156,7 +138,6 @@ Earlier collaborations
     <td>2023</td>
   </tr>
   <tr>
-    <td></td>
     <td>Sai Shubham</td>
     <td>B.Tech</td>
     <td>IIT Gandhinagar</td>
@@ -164,7 +145,6 @@ Earlier collaborations
     <td>2023</td>
   </tr>
   <tr>
-    <td></td>
     <td>Dheeraj Kumar</td>
     <td>B.Tech</td>
     <td>IIT Gandhinagar</td>
@@ -172,7 +152,6 @@ Earlier collaborations
     <td>2023</td>
   </tr>
   <tr>
-    <td></td>
     <td>Govind Prasad Chandrakar</td>
     <td>Post Doctoral Researcher</td>
     <td>IIT Gandhinagar</td>
@@ -180,7 +159,6 @@ Earlier collaborations
     <td>2023</td>
   </tr>
   <tr>
-    <td></td>
     <td>Aditya Biswas</td>
     <td>M.Tech</td>
     <td>IIT Gandhinagar</td>
@@ -188,7 +166,6 @@ Earlier collaborations
     <td>2022</td>
   </tr>
   <tr>
-    <td></td>
     <td>Alok Parmar</td>
     <td>MS Research</td>
     <td>IIIT Bangalore</td>
@@ -196,7 +173,6 @@ Earlier collaborations
     <td>2022</td>
   </tr>
   <tr>
-    <td></td>
     <td>Arpita Kabra</td>
     <td>B.Tech</td>
     <td>IIT Gandhinagar</td>
@@ -204,7 +180,6 @@ Earlier collaborations
     <td>2022</td>
   </tr>
   <tr>
-    <td></td>
     <td>Ankit Kumar</td>
     <td>JRF</td>
     <td>IIT Gandhinagar</td>
@@ -212,7 +187,6 @@ Earlier collaborations
     <td>2022</td>
   </tr>
   <tr>
-    <td></td>
     <td>Nishta Baruah</td>
     <td>Intern</td>
     <td>NIT Silchar</td>
@@ -220,7 +194,6 @@ Earlier collaborations
     <td>2022</td>
   </tr>
   <tr>
-    <td></td>
     <td>Rajat Borkar</td>
     <td>M.Tech</td>
     <td>IIT Gandhinagar</td>
@@ -228,7 +201,6 @@ Earlier collaborations
     <td>2021</td>
   </tr>
   <tr>
-    <td></td>
     <td>Roshni Dhandamudi</td>
     <td>M.Tech</td>
     <td>IIT Gandhinagar</td>
@@ -236,7 +208,6 @@ Earlier collaborations
     <td>2021</td>
   </tr>
   <tr>
-    <td></td>
     <td>Rajesh Kumar</td>
     <td>M.Tech</td>
     <td>IIT Gandhinagar</td>
@@ -244,7 +215,6 @@ Earlier collaborations
     <td>2021</td>
   </tr>
   <tr>
-    <td></td>
     <td>Naveen Puri</td>
     <td>M.Tech</td>
     <td>IIT Gandhinagar</td>
@@ -252,7 +222,6 @@ Earlier collaborations
     <td>2021</td>
   </tr>
   <tr>
-    <td></td>
     <td>Tushar Agarwal</td>
     <td>M.Tech</td>
     <td>IIT Gandhinagar</td>
@@ -260,7 +229,6 @@ Earlier collaborations
     <td>2021</td>
   </tr>
   <tr>
-    <td></td>
     <td>Anoop Kumar</td>
     <td>M.Tech</td>
     <td>IIT Gandhinagar</td>
@@ -268,7 +236,6 @@ Earlier collaborations
     <td>2021</td>
   </tr>
   <tr>
-    <td></td>
     <td>Bachu Varun Tej</td>
     <td>M.Tech</td>
     <td>IIT Gandhinagar</td>
@@ -276,7 +243,6 @@ Earlier collaborations
     <td>2021</td>
   </tr>
   <tr>
-    <td></td>
     <td>Sumit Walia</td>
     <td>B.Tech</td>
     <td>IIT Gandhinagar</td>
@@ -284,7 +250,6 @@ Earlier collaborations
     <td>2021</td>
   </tr>
   <tr>
-    <td></td>
     <td>Gyanendra Tiwari</td>
     <td>M.Tech</td>
     <td>IIT Gandhinagar</td>
@@ -292,7 +257,6 @@ Earlier collaborations
     <td>2020</td>
   </tr>
   <tr>
-    <td></td>
     <td>Surendra Maurya</td>
     <td>M.Tech</td>
     <td>IIT Gandhinagar</td>
@@ -300,7 +264,6 @@ Earlier collaborations
     <td>2020</td>
   </tr>
   <tr>
-    <td></td>
     <td>Chandan Kumar Jha</td>
     <td>PhD</td>
     <td>IIT Gandhinagar</td>
@@ -308,7 +271,6 @@ Earlier collaborations
     <td>2020</td>
   </tr>
   <tr>
-    <td></td>
     <td>Vibhor Kumar Srivastava</td>
     <td>Intern</td>
     <td>IIITDM Kancheepuram</td>
