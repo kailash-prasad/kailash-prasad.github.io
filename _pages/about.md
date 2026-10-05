@@ -19,11 +19,11 @@ redirect_from:
 </section>
 <div class="credibility container"><span class="eyebrow">Across industry<br>and academia</span><strong>Arm<small>Memory design</small></strong><strong>IIT Gandhinagar<small>Ph.D. · Electrical Engineering</small></strong><strong>PMRF<small>Research fellowship</small></strong><strong>Intel<small>India Research Fellowship</small></strong></div>
 <section class="section container" id="work">
-  <div class="section-top"><div><p class="eyebrow">What I work on</p><h2>From the memory cell<br>to the bigger picture.</h2></div><a class="text-link" href="{{ '/skills/' | relative_url }}">Tools & expertise</a></div>
+  <div class="section-top"><div><h2>Work and research interests</h2></div><a class="text-link" href="{{ '/skills/' | relative_url }}">Tools & expertise</a></div>
   <div class="expertise">
-    <article><span class="number">01 / DESIGN</span><h3>SRAM & memory systems</h3><p>Memory circuit design and characterization at advanced technology nodes. Finding the balance between performance, power, area, and robust operation.</p><div class="tags"><span>SRAM</span><span>Circuit design</span><span>Characterization</span></div></article>
-    <article><span class="number">02 / RESEARCH</span><h3>Computing in memory</h3><p>Analog and digital approaches that bring computation closer to data, alongside approximate arithmetic and energy-efficient hardware for machine learning.</p><div class="tags"><span>In-memory computing</span><span>AI hardware</span><span>Approximate computing</span></div></article>
-    <article><span class="number">03 / SHARE</span><h3>Making VLSI accessible</h3><p>Teaching, mentoring, and explaining semiconductor ideas through practical examples. Helping students connect the theory to how circuits actually work.</p><div class="tags"><span>Teaching</span><span>Mentorship</span><span>Technical writing</span></div></article>
+    <article><h3>SRAM design</h3><p>At Arm, I work on SRAM circuit design and characterization at advanced technology nodes. My work includes circuit sizing, timing and power analysis, and checking read and write margins across process, voltage, and temperature conditions.</p><div class="tags"><span>SRAM</span><span>Circuit design</span><span>Characterization</span></div></article>
+    <article><h3>In-memory computing</h3><p>My doctoral research explored analog and digital computation within SRAM and gain-cell memories. I also worked on approximate arithmetic and posit-based hardware for neural-network accelerators.</p><div class="tags"><span>In-memory computing</span><span>Approximate computing</span><span>Hardware–software codesign</span></div></article>
+    <article><h3>Teaching and technical writing</h3><p>I have taught IC design, supported NPTEL courses, and mentored students on VLSI projects. I also write about memory design and semiconductors on LinkedIn, using circuit examples to explain the ideas.</p><div class="tags"><span>Teaching</span><span>Mentoring</span><span>Technical writing</span></div></article>
   </div>
 </section>
 <section class="research-band"><div class="section container">
