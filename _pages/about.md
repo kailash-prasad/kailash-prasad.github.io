@@ -2,17 +2,18 @@
 layout: portfolio
 home: true
 permalink: /
-description: "Kailash Prasad — Senior Design Engineer at Arm, SRAM and in-memory computing researcher, and VLSI educator. Ph.D., IIT Gandhinagar."
+description: "Kailash Prasad works on SRAM circuit design and characterization at Arm in Noida. Ph.D. in Electrical Engineering, IIT Gandhinagar."
 redirect_from:
   - /about/
   - /about.html
 ---
 <section class="hero container">
   <div>
-    <div class="eyebrow">Memory designer · Researcher · Educator</div>
-    <h1>Small circuits.<br>Big possibilities<em>.</em></h1>
-    <p class="intro">I'm <strong>Kailash Prasad</strong>. I design SRAM at <strong>Arm</strong>, explore computing inside memory, and share what I learn about the chips that power our world.</p>
-    <div class="actions"><a class="button primary" href="{{ '/projects/' | relative_url }}">Explore my work</a><a class="button" href="{{ '/publications/' | relative_url }}">Read my research</a></div>
+    <div class="eyebrow">SRAM circuit design · Arm, Noida</div>
+    <h1>Kailash Prasad</h1>
+    <p class="intro">I work on SRAM circuit design and characterization at <strong>Arm</strong> in Noida. I completed my Ph.D. in Electrical Engineering at <strong>IIT Gandhinagar</strong> under Prof. Joycee Mekie, where my research focused on in-memory computing and approximate computing.</p>
+    <p class="intro">Alongside my engineering work, I write about semiconductors and share learning resources for students interested in VLSI.</p>
+    <div class="actions"><a class="button primary" href="{{ '/projects/' | relative_url }}">Projects</a><a class="button" href="{{ '/publications/' | relative_url }}">Publications</a></div>
   </div>
   <figure class="portrait"><img src="{{ '/images/kailash.jpg' | relative_url }}" alt="Kailash Prasad" width="540" height="540" fetchpriority="high"><figcaption><div><strong>Kailash Prasad</strong><span>Senior Design Engineer · Arm, Noida</span></div><span class="caption-index" aria-hidden="true">01 / KP</span></figcaption></figure>
 </section>
