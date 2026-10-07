@@ -26,12 +26,24 @@ redirect_from:
     <article><h3>Teaching and technical writing</h3><p>I have taught IC design, supported NPTEL courses, and mentored students on VLSI projects. I also write about memory design and semiconductors on LinkedIn, using circuit examples to explain the ideas.</p><div class="tags"><span>Teaching</span><span>Mentoring</span><span>Technical writing</span></div></article>
   </div>
 </section>
-<section class="research-band"><div class="section container">
-  <div class="section-top"><div><h2>Selected research</h2></div><a class="text-link" href="{{ '/publications/' | relative_url }}">All publications</a></div>
-  <div class="research-grid">
-    <article class="research-card featured"><span class="eyebrow">DATE 2023</span><span class="badge">Best Paper Candidate</span><h3>PIC-RAM</h3><p>A capacitive multiplier for analog in-memory computing in 6T SRAM, designed to reduce the effect of process variation on multiplication.</p><div class="feature-bottom"><div><strong>6T SRAM</strong><span>Analog in-memory computing</span></div><a class="text-link" href="{{ '/publications/#pic-ram' | relative_url }}">View publication</a></div></article>
-    <article class="research-card"><span class="eyebrow">DATE 2023</span><h3>Process Variation Resilient Current-Domain Analog In Memory Computing</h3><p>Process variation can affect the accuracy of analog computation. This work studies a current-domain in-memory computing approach designed to make computation more resilient to those variations.</p><a class="text-link" href="{{ '/publications/#current-domain-imc' | relative_url }}">View publication</a></article>
-    <article class="research-card"><span class="eyebrow">ASP-DAC 2023</span><h3>Hardware-Software Codesign of DNN Accelerators using Approximate Posit Multipliers</h3><p>This work combines approximate posit multipliers with DNN accelerator design, studying the trade-off between numerical accuracy and hardware cost.</p><a class="text-link" href="{{ '/publications/#posit' | relative_url }}">View publication</a></article>
+<section class="research-band" id="research" aria-labelledby="research-heading"><div class="section container">
+  <div class="section-top"><div><h2 id="research-heading">Selected research</h2></div><a class="text-link" href="{{ '/publications/' | relative_url }}">All publications</a></div>
+  <div class="research-list">
+    <article class="research-entry">
+      <div class="research-meta"><span class="eyebrow">DATE 2023</span><span class="badge">Best Paper Candidate</span></div>
+      <div class="research-body"><h3>PIC-RAM</h3><p>A capacitive multiplier for analog in-memory computing in 6T SRAM, designed to reduce the effect of process variation on multiplication.</p></div>
+      <a class="text-link" href="{{ '/publications/#pic-ram' | relative_url }}" aria-label="View PIC-RAM publication">View publication <span aria-hidden="true">↗</span></a>
+    </article>
+    <article class="research-entry">
+      <div class="research-meta"><span class="eyebrow">DATE 2023</span></div>
+      <div class="research-body"><h3>Process Variation Resilient Current-Domain Analog In Memory Computing</h3><p>A current-domain approach to analog in-memory computing that addresses the effect of process variation on computation accuracy.</p></div>
+      <a class="text-link" href="{{ '/publications/#current-domain-imc' | relative_url }}" aria-label="View current-domain analog in-memory computing publication">View publication <span aria-hidden="true">↗</span></a>
+    </article>
+    <article class="research-entry">
+      <div class="research-meta"><span class="eyebrow">ASP-DAC 2023</span><span class="badge">Best Paper Candidate</span></div>
+      <div class="research-body"><h3>Hardware-Software Codesign of DNN Accelerators using Approximate Posit Multipliers</h3><p>Approximate posit multipliers and DNN accelerator design, studying the trade-off between numerical accuracy and hardware cost.</p></div>
+      <a class="text-link" href="{{ '/publications/#posit' | relative_url }}" aria-label="View approximate posit multiplier codesign publication">View publication <span aria-hidden="true">↗</span></a>
+    </article>
   </div>
 </div></section>
 <section class="section container" id="speaking-writing" aria-labelledby="speaking-writing-heading">
