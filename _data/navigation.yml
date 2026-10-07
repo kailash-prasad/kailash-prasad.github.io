@@ -5,6 +5,10 @@ main:
   url: /publications/
 - title: Expertise
   url: /skills/
+- title: Talks
+  url: /talks/
+- title: Writing
+  url: /writing/
 - title: Resources
   url: /resources/
 - title: CV

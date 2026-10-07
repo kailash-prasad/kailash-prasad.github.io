@@ -45,14 +45,21 @@ redirect_from:
 </section>
 <section class="container teaching-panel" id="teaching">
   <div><h2>Teaching and learning resources</h2><p>During my Ph.D., I taught IC design at IIT Gandhinagar and worked as a teaching assistant for NPTEL courses in Digital Electronics and VLSI Subsystems.</p><p>I have also mentored students on circuit design and research projects. This collection includes presentations, tutorials, and course videos from my teaching and research work.</p><a class="text-link" href="{{ '/resources/' | relative_url }}">All learning resources</a></div>
-  <div class="resource-list"><a href="{{ '/resources/#memory' | relative_url }}">Breaking the memory wall for AI <small>Presentation</small></a><a href="{{ '/resources/#approximation' | relative_url }}">The art of approximate computing <small>Presentation</small></a><a href="{{ '/resources/#verilog' | relative_url }}">Verilog and FPGA fundamentals <small>Tutorial</small></a><a href="https://www.linkedin.com/in/kailash-prasad/">My semiconductor posts <small>LinkedIn</small></a></div>
+  <div class="resource-list"><a href="{{ '/resources/#memory' | relative_url }}">Breaking the memory wall for AI <small>Presentation</small></a><a href="{{ '/resources/#approximation' | relative_url }}">The art of approximate computing <small>Presentation</small></a><a href="{{ '/resources/#verilog' | relative_url }}">Verilog and FPGA fundamentals <small>Tutorial</small></a><a href="{{ '/writing/' | relative_url }}">My semiconductor posts <small>Writing</small></a></div>
+</section>
+<section class="section container" id="speaking-writing">
+  <div class="section-top"><div><h2>Talks and writing</h2></div></div>
+  <div class="resource-grid">
+    <article class="resource-card"><h3>Talks and interviews</h3><p>University talks, a custom IC design workshop, and conversations about doctoral research and VLSI careers.</p><a class="text-link" href="{{ '/talks/' | relative_url }}">Browse talks and interviews</a></article>
+    <article class="resource-card"><h3>Semiconductor writing</h3><p>Memory Design 101, explanations of interconnects and circuit behaviour, and articles on VLSI learning.</p><a class="text-link" href="{{ '/writing/' | relative_url }}">Read my posts and articles</a></article>
+  </div>
 </section>
 <section class="section container" id="recognition">
   <div class="section-top"><div><h2>Awards and academic service</h2></div><a class="text-link" href="{{ '/awards/' | relative_url }}">All awards and fellowships</a></div>
   <div class="expertise">
     <article><h3>Research fellowships</h3><p>During my Ph.D., I received the Prime Minister’s Research Fellowship and Intel India Research Fellowship in 2020. I was also an SRC Research Scholar.</p></article>
     <article><h3>Teaching award</h3><p>I received IIT Gandhinagar’s Outstanding Graduate Teaching Fellow Award in 2022 for my work teaching the IC Design course.</p></article>
-    <article><h3>Conference service</h3><p>I served as Track Chair for ULSI Circuits, System-on-Chip, and Power SoC at ICEE 2025. I also review research papers and collaborate with students and researchers.</p><a class="text-link" href="{{ '/collaborators/' | relative_url }}">Collaborators</a></article>
+    <article><h3>Conference service</h3><p>I served as Track Co-Chair for ULSI Circuits, System-on-Chip, and Power SoC at ICEE 2025. I also review research papers and collaborate with students and researchers.</p><a class="text-link" href="{{ '/collaborators/' | relative_url }}">Collaborators</a></article>
   </div>
 </section>
 <section class="connect" id="connect"><div class="container"><div><p class="eyebrow">Let's connect</p><h2>A good conversation<br>can start something.</h2><p>For research discussions, invited talks, or conversations about memory design and VLSI education.</p><div class="connect-links"><a href="https://scholar.google.com/citations?user=OIt7SosAAAAJ&hl=en">Google Scholar</a><a href="https://orcid.org/0000-0002-4873-7728">ORCID</a><a href="https://github.com/kailash-prasad">GitHub</a><a href="mailto:kailash.prasad@iitgn.ac.in">Email</a></div></div><a class="button" href="https://www.linkedin.com/in/kailash-prasad/">Connect on LinkedIn</a></div></section>
