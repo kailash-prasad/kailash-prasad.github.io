@@ -74,7 +74,7 @@ redirect_from:
   </div>
 </section>
 <section class="container teaching-panel" id="teaching">
-  <div><h2>Teaching and learning resources</h2><p>During my Ph.D., I taught IC design at IIT Gandhinagar and worked as a teaching assistant for NPTEL courses in Digital Electronics and VLSI Subsystems.</p><p>I have also mentored students on circuit design and research projects. This collection includes presentations, tutorials, and course videos from my teaching and research work.</p><a class="text-link" href="{{ '/resources/' | relative_url }}">All learning resources</a></div>
+  <div><h2>Teaching and learning resources</h2><p>At IIT Gandhinagar, I taught the Digital IC Design Lab as a Graduate Teaching Fellow and supported other courses as a teaching assistant. I also worked as a tutor for NPTEL’s Digital Circuits and Design and Analysis of VLSI Subsystems courses.</p><p>I share presentations, programming tutorials, and recorded tutorial sessions. Each resource lists my contribution, collaborators, and course instructors.</p><a class="text-link" href="{{ '/resources/' | relative_url }}">All learning resources</a></div>
   <div class="resource-list"><a href="{{ '/resources/#memory' | relative_url }}">Breaking the memory wall for AI <small>Presentation</small></a><a href="{{ '/resources/#approximation' | relative_url }}">The art of approximate computing <small>Presentation</small></a><a href="{{ '/resources/#verilog' | relative_url }}">Verilog and FPGA fundamentals <small>Tutorial</small></a><a href="{{ '/writing/' | relative_url }}">My semiconductor posts <small>Writing</small></a></div>
 </section>
 <section class="section container" id="recognition">
