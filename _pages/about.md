@@ -34,6 +34,36 @@ redirect_from:
     <article class="research-card"><span class="eyebrow">ASP-DAC 2023</span><h3>Hardware-Software Codesign of DNN Accelerators using Approximate Posit Multipliers</h3><p>This work combines approximate posit multipliers with DNN accelerator design, studying the trade-off between numerical accuracy and hardware cost.</p><a class="text-link" href="{{ '/publications/#posit' | relative_url }}">View publication</a></article>
   </div>
 </div></section>
+<section class="section container" id="speaking-writing" aria-labelledby="speaking-writing-heading">
+  <div class="section-top"><div><h2 id="speaking-writing-heading">Talks, interviews and writing</h2></div></div>
+  <div class="resource-grid">
+    <article class="resource-card">
+      <span class="eyebrow">Bennett University · April 2026</span>
+      <h3>VLSI Careers: What Nobody Tells You</h3>
+      <p>I spoke with students about VLSI career paths and how circuit design, timing, and engineering decisions connect academic learning with industry work.</p>
+      <a class="text-link" href="https://www.linkedin.com/posts/ece-bennett-university_ece-pictures-activity-7450513268072398850-xq0w">Event details</a>
+    </article>
+    <article class="resource-card">
+      <span class="eyebrow">ICEE 2025 · Young-professional talk</span>
+      <h3>Circuit and System Design: A Research-Driven Journey From Academia to Industry</h3>
+      <p>A talk about my path from doctoral circuit research at IIT Gandhinagar to memory design at Arm.</p>
+      <a class="text-link" href="https://www.linkedin.com/posts/icee25_icee2025-compactmodeling-semiconductordevices-activity-7399411180412321792-sF9P">Event programme</a>
+    </article>
+    <article class="resource-card">
+      <span class="eyebrow">Video interview · Anish Saha</span>
+      <h3>My Ph.D. journey</h3>
+      <p>A conversation about starting a Ph.D. after B.Tech., research at IIT Gandhinagar, the PMRF fellowship, and VLSI career paths.</p>
+      <a class="text-link" href="https://www.youtube.com/watch?v=9LyFRHl_WkU">Watch on YouTube</a>
+    </article>
+    <article class="resource-card">
+      <span class="eyebrow">LinkedIn series · SRAM fundamentals</span>
+      <h3>Memory Design 101</h3>
+      <p>How does a memory cell store data? Why is writing harder than reading? What sets SRAM Vmin? I explore these questions through circuit examples.</p>
+      <a class="text-link" href="{{ '/writing/#memory-design' | relative_url }}">Read the series</a>
+    </article>
+  </div>
+  <div class="actions"><a class="button" href="{{ '/talks/' | relative_url }}">All talks and interviews</a><a class="button" href="{{ '/writing/' | relative_url }}">All posts and articles</a></div>
+</section>
 <section class="section container journey" id="about">
   <div><h2>Background</h2><p class="lead">I grew up in Arunachal Pradesh and studied Electronics and Communication Engineering at NIT Arunachal Pradesh before joining IIT Gandhinagar for my Ph.D.</p><p>At IIT Gandhinagar, I worked with <a href="https://joycee.people.iitgn.ac.in/">Prof. Joycee Mekie</a> in the nanoDC Lab on in-memory computing and approximate computing. My doctoral work included circuit research, two UMC 65 nm tapeouts, and teaching IC design.</p><p>I joined Arm in Noida in October 2023 and defended my Ph.D. in June 2024. I now work on SRAM design and characterization, while continuing to write about semiconductors and mentor students.</p><a class="text-link" href="{{ '/cv/' | relative_url }}">View my CV</a></div>
   <div class="timeline">
@@ -46,13 +76,6 @@ redirect_from:
 <section class="container teaching-panel" id="teaching">
   <div><h2>Teaching and learning resources</h2><p>During my Ph.D., I taught IC design at IIT Gandhinagar and worked as a teaching assistant for NPTEL courses in Digital Electronics and VLSI Subsystems.</p><p>I have also mentored students on circuit design and research projects. This collection includes presentations, tutorials, and course videos from my teaching and research work.</p><a class="text-link" href="{{ '/resources/' | relative_url }}">All learning resources</a></div>
   <div class="resource-list"><a href="{{ '/resources/#memory' | relative_url }}">Breaking the memory wall for AI <small>Presentation</small></a><a href="{{ '/resources/#approximation' | relative_url }}">The art of approximate computing <small>Presentation</small></a><a href="{{ '/resources/#verilog' | relative_url }}">Verilog and FPGA fundamentals <small>Tutorial</small></a><a href="{{ '/writing/' | relative_url }}">My semiconductor posts <small>Writing</small></a></div>
-</section>
-<section class="section container" id="speaking-writing">
-  <div class="section-top"><div><h2>Talks and writing</h2></div></div>
-  <div class="resource-grid">
-    <article class="resource-card"><h3>Talks and interviews</h3><p>University talks, a custom IC design workshop, and conversations about doctoral research and VLSI careers.</p><a class="text-link" href="{{ '/talks/' | relative_url }}">Browse talks and interviews</a></article>
-    <article class="resource-card"><h3>Semiconductor writing</h3><p>Memory Design 101, explanations of interconnects and circuit behaviour, and articles on VLSI learning.</p><a class="text-link" href="{{ '/writing/' | relative_url }}">Read my posts and articles</a></article>
-  </div>
 </section>
 <section class="section container" id="recognition">
   <div class="section-top"><div><h2>Awards and academic service</h2></div><a class="text-link" href="{{ '/awards/' | relative_url }}">All awards and fellowships</a></div>
