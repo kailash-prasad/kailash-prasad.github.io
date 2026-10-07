@@ -65,16 +65,22 @@ description: "Presentations, programming tutorials, and NPTEL tutorial sessions,
 <div class="resource-grid">
 <article class="resource-card" id="vlsi-subsystems">
   <span class="eyebrow">PMRF tutorial sessions · YouTube</span><h3>Design and Analysis of VLSI Subsystems</h3>
+  <div class="video-embed">
+    <iframe src="https://www.youtube.com/embed?listType=playlist&amp;list=PL7N1sbWPuzeboQlS7dCIzhLWDFudJGMgH&amp;playsinline=1&amp;rel=0" title="Design and Analysis of VLSI Subsystems — PMRF tutorial playlist" width="560" height="315" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  </div>
   <p>Recorded tutorial sessions accompanying the NPTEL course on digital CMOS VLSI subsystem design.</p>
   <p><strong>My role:</strong> Tutor and teaching assistant.<br>Course instructor: Prof. Madhav Rao, IIIT Bangalore.</p>
-  <a class="text-link" href="https://www.youtube.com/playlist?list=PL7N1sbWPuzeboQlS7dCIzhLWDFudJGMgH">Watch tutorial sessions</a><br>
+  <a class="text-link" href="https://www.youtube.com/playlist?list=PL7N1sbWPuzeboQlS7dCIzhLWDFudJGMgH">Open playlist on YouTube</a><br>
   <a class="text-link" href="https://nptel.ac.in/courses/117106149">Original NPTEL course</a>
 </article>
 <article class="resource-card" id="digital-circuits">
   <span class="eyebrow">PMRF tutorial sessions · YouTube</span><h3>Digital Circuits</h3>
+  <div class="video-embed">
+    <iframe src="https://www.youtube.com/embed?listType=playlist&amp;list=PL7N1sbWPuzeYVlEJZf8DJRdfToQi0xouX&amp;playsinline=1&amp;rel=0" title="Digital Circuits — PMRF tutorial playlist" width="560" height="315" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  </div>
   <p>Recorded tutorial sessions accompanying the NPTEL course on digital-circuit fundamentals.</p>
   <p><strong>My role:</strong> Tutor and teaching assistant.<br>Course instructor: Prof. Santanu Chattopadhyay, IIT Kharagpur.</p>
-  <a class="text-link" href="https://www.youtube.com/playlist?list=PL7N1sbWPuzeYVlEJZf8DJRdfToQi0xouX">Watch tutorial sessions</a><br>
+  <a class="text-link" href="https://www.youtube.com/playlist?list=PL7N1sbWPuzeYVlEJZf8DJRdfToQi0xouX">Open playlist on YouTube</a><br>
   <a class="text-link" href="https://nptel.ac.in/courses/108105113">Original NPTEL course</a>
 </article>
 </div>
