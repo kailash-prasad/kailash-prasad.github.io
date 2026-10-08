@@ -86,7 +86,6 @@ redirect_from:
       <p class="academic-milestones"><strong>Thesis submitted:</strong> May 2023<br><strong>Thesis defended:</strong> June 2024</p>
       <div class="tags" aria-label="Doctoral fellowships and recognition"><span>PMRF</span><span>Intel India Research Fellow</span><span>SRC Research Scholar</span></div>
     </div></article>
-    <article><time>2020 &amp; 2022</time><div><h3>UMC 65 nm tapeouts</h3><p>Worked with a student team on the design and implementation of memory and computing circuits for two chip tapeouts.</p></div></article>
     <article><time>2014 — 2018</time><div><h3>B.Tech. · NIT Arunachal Pradesh</h3><p>Electronics and Communication Engineering.<br>Chairman Gold Medal and Institute Gold Medal.</p></div></article>
   </div>
 </section>
