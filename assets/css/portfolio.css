@@ -16,3 +16,5 @@
 
 .interview-feature{grid-column:1/-1;display:grid;grid-template-columns:1.2fr .8fr;gap:32px;align-items:center}.interview-feature .video-embed{margin:0}
 @media(max-width:760px){.interview-feature{grid-template-columns:1fr;gap:24px}}
+
+.timeline .academic-milestones,.timeline .tags{margin-top:14px}

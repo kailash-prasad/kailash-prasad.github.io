@@ -77,10 +77,15 @@ redirect_from:
   <div class="actions"><a class="button" href="{{ '/talks/' | relative_url }}">All talks and interviews</a><a class="button" href="{{ '/writing/' | relative_url }}">All posts and articles</a></div>
 </section>
 <section class="section container journey" id="about">
-  <div><h2>Background</h2><p class="lead">I grew up in Arunachal Pradesh and studied Electronics and Communication Engineering at NIT Arunachal Pradesh before joining IIT Gandhinagar for my Ph.D.</p><p>At IIT Gandhinagar, I worked with <a href="https://joycee.people.iitgn.ac.in/">Prof. Joycee Mekie</a> in the nanoDC Lab on in-memory computing and approximate computing. My doctoral work included circuit research, two UMC 65 nm tapeouts, and teaching IC design.</p><p>I joined Arm in Noida in October 2023 and defended my Ph.D. in June 2024. I now work on SRAM design and characterization, while continuing to write about semiconductors and mentor students.</p><a class="text-link" href="{{ '/cv/' | relative_url }}">View my CV</a></div>
+  <div><h2>Background</h2><p class="lead">I grew up in Arunachal Pradesh and studied Electronics and Communication Engineering at NIT Arunachal Pradesh before joining IIT Gandhinagar through the Start Early Ph.D. programme.</p><p>At IIT Gandhinagar, I worked with <a href="https://joycee.people.iitgn.ac.in/">Prof. Joycee Mekie</a> in the nanoDC Lab on in-memory computing and approximate computing. My doctoral work included circuit research, two UMC 65 nm tapeouts, and teaching IC design.</p><p>I submitted my thesis in May 2023, joined Arm in Noida in October 2023, and defended my thesis in June 2024. I now work on SRAM design and characterization, while continuing to write about semiconductors and mentor students.</p><a class="text-link" href="{{ '/cv/' | relative_url }}">View my CV</a></div>
   <div class="timeline">
     <article><time>2023 — Present</time><div><h3>Arm, Noida</h3><p>Senior Design Engineer, Physical IP Group.<br>SRAM circuit design and characterization at advanced technology nodes.</p></div></article>
-    <article><time>2018 — 2024</time><div><h3>Ph.D. · IIT Gandhinagar</h3><p>Electrical Engineering, nanoDC Lab.<br>Advisor: Prof. Joycee Mekie. Research in in-memory computing and approximate computing.</p></div></article>
+    <article><time>2018 — 2023</time><div>
+      <h3>Ph.D. · IIT Gandhinagar</h3>
+      <p>Electrical Engineering, nanoDC Lab.<br>Start Early Ph.D. programme.<br>Advisor: Prof. Joycee Mekie. Research in in-memory computing and approximate computing.</p>
+      <p class="academic-milestones"><strong>Thesis submitted:</strong> May 2023<br><strong>Thesis defended:</strong> June 2024</p>
+      <div class="tags" aria-label="Doctoral fellowships and recognition"><span>PMRF</span><span>Intel India Research Fellow</span><span>SRC Research Scholar</span></div>
+    </div></article>
     <article><time>2020 &amp; 2022</time><div><h3>UMC 65 nm tapeouts</h3><p>Worked with a student team on the design and implementation of memory and computing circuits for two chip tapeouts.</p></div></article>
     <article><time>2014 — 2018</time><div><h3>B.Tech. · NIT Arunachal Pradesh</h3><p>Electronics and Communication Engineering.<br>Chairman Gold Medal and Institute Gold Medal.</p></div></article>
   </div>
