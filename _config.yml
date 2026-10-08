@@ -14,7 +14,7 @@ locale                   : "en-US"
 title                    : "Kailash Prasad"
 title_separator          : "-"
 name                     : &name "Kailash Prasad"
-description              : &description "Kailash Prasad — Senior Design Engineer at Arm, SRAM researcher and VLSI educator. Ph.D., IIT Gandhinagar."
+description              : &description "Kailash Prasad — SRAM design at Arm and research in energy-efficient AI hardware, approximate computing, posit arithmetic, and in-memory computing."
 url                      : https://kailashprasad.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #baseurl                  : "/personal" # the subpath of your site, e.g. "/blog"
 repository               : "kailash-prasad/kailash-prasad.github.io"
@@ -86,7 +86,7 @@ analytics:
 author:
   name             : "Kailash Prasad"
   avatar           : "kailash.jpg"
-  bio              : "Senior Design Engineer at Arm | SRAM & in-memory computing | Ph.D., IIT Gandhinagar"
+  bio              : "Senior Design Engineer at Arm | SRAM design & energy-efficient AI hardware | Ph.D., IIT Gandhinagar"
   location         : "Noida, India"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

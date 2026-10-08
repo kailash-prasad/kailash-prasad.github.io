@@ -2,16 +2,17 @@
 layout: portfolio
 home: true
 permalink: /
-description: "Kailash Prasad works on SRAM circuit design and characterization at Arm in Noida. Ph.D. in Electrical Engineering, IIT Gandhinagar."
+description: "SRAM design at Arm and doctoral research in energy-efficient AI hardware, spanning approximate computing, posit arithmetic, and in-memory computing."
 redirect_from:
   - /about/
   - /about.html
 ---
 <section class="hero container">
   <div>
-    <div class="eyebrow">SRAM circuit design · Arm, Noida</div>
+    <div class="eyebrow">SRAM design · Energy-efficient AI hardware</div>
     <h1>Kailash Prasad</h1>
-    <p class="intro">I work on SRAM circuit design and characterization at <strong>Arm</strong> in Noida. I completed my Ph.D. in Electrical Engineering at <strong>IIT Gandhinagar</strong> under Prof. Joycee Mekie, where my research focused on in-memory computing and approximate computing.</p>
+    <p class="intro">I work on SRAM circuit design and characterization at <strong>Arm</strong> in Noida. My research background spans arithmetic circuits, AI accelerator architectures, and memory systems.</p>
+    <p class="intro">My Ph.D. at <strong>IIT Gandhinagar</strong>, under Prof. Joycee Mekie, focused on <strong>energy-efficient hardware for AI</strong>—improving how hardware computes and how it stores and moves data through approximate computing, posit arithmetic, and in-memory computing.</p>
     <p class="intro">Alongside my engineering work, I write about semiconductors and share learning resources for students interested in VLSI.</p>
     <div class="actions"><a class="button primary" href="{{ '/projects/' | relative_url }}">Projects</a><a class="button" href="{{ '/publications/' | relative_url }}">Publications</a></div>
   </div>
@@ -22,12 +23,29 @@ redirect_from:
   <div class="section-top"><div><h2>Work and research interests</h2></div><a class="text-link" href="{{ '/skills/' | relative_url }}">Tools & expertise</a></div>
   <div class="expertise">
     <article><h3>SRAM design</h3><p>At Arm, I work on SRAM circuit design and characterization at advanced technology nodes. My work includes circuit sizing, timing and power analysis, and checking read and write margins across process, voltage, and temperature conditions.</p><div class="tags"><span>SRAM</span><span>Circuit design</span><span>Characterization</span></div></article>
-    <article><h3>In-memory computing</h3><p>My doctoral research explored analog and digital computation within SRAM and gain-cell memories. I also worked on approximate arithmetic and posit-based hardware for neural-network accelerators.</p><div class="tags"><span>In-memory computing</span><span>Approximate computing</span><span>Hardware–software codesign</span></div></article>
+    <article><h3>AI hardware design</h3><p>My doctoral research addressed both compute and memory costs in AI hardware. I worked on approximate arithmetic, posit-based DNN accelerators, and analog and digital in-memory computing, connecting circuit choices with application-level energy, performance, and accuracy.</p><div class="tags"><span>Approximate computing</span><span>Posit arithmetic</span><span>In-memory computing</span></div></article>
     <article><h3>Teaching and technical writing</h3><p>I have taught IC design, supported NPTEL courses, and mentored students on VLSI projects. I also write about memory design and semiconductors on LinkedIn, using circuit examples to explain the ideas.</p><div class="tags"><span>Teaching</span><span>Mentoring</span><span>Technical writing</span></div></article>
   </div>
 </section>
 <section class="research-band" id="research" aria-labelledby="research-heading"><div class="section container">
-  <div class="section-top"><div><h2 id="research-heading">Selected research</h2></div><a class="text-link" href="{{ '/publications/' | relative_url }}">All publications</a></div>
+  <div class="section-top"><div><h2 id="research-heading">Energy-efficient AI hardware</h2></div><a class="text-link" href="{{ '/projects/' | relative_url }}">Research & projects</a></div>
+  <p class="research-overview">My doctoral research approached AI hardware as a system: the cost of arithmetic, the size of the data representation, and the energy spent storing and moving that data all matter. I explored two connected ways to improve it.</p>
+  <div class="research-perspectives">
+    <article>
+      <span class="eyebrow">Compute</span>
+      <h3>Reducing the cost of arithmetic</h3>
+      <p>I explored approximate adders, multipliers, and dividers, alongside posit number representations for DNN accelerators. The aim was to reduce energy, area, and execution time while meeting application accuracy requirements. Choosing the number format and precision also changes the storage footprint and data-transfer cost.</p>
+      <a class="text-link" href="{{ '/projects/#compute' | relative_url }}">Arithmetic & accelerator research</a>
+    </article>
+    <article>
+      <span class="eyebrow">Memory</span>
+      <h3>Bringing computation into memory</h3>
+      <p>I developed analog and digital in-memory computing circuits and studied memory architectures to address the cost of moving data between storage and compute units. This work included SRAM compute circuits, sense amplifiers, process-variation resilience, and tools to evaluate architectural trade-offs.</p>
+      <a class="text-link" href="{{ '/projects/#memory' | relative_url }}">Memory & in-memory computing research</a>
+    </article>
+  </div>
+  <p class="research-connection">Hardware–software codesign connects these choices: an efficient arithmetic unit must work with the accelerator’s dataflow, buffers, and memory system to improve the complete design.</p>
+  <div class="research-selected-heading"><h3>Selected publications</h3><a class="text-link" href="{{ '/publications/' | relative_url }}">All publications</a></div>
   <div class="research-list">
     <article class="research-entry">
       <div class="research-meta"><span class="eyebrow">DATE 2023</span><span class="badge">Best Paper Candidate</span></div>
@@ -41,7 +59,7 @@ redirect_from:
     </article>
     <article class="research-entry">
       <div class="research-meta"><span class="eyebrow">ASP-DAC 2023</span><span class="badge">Best Paper Candidate</span></div>
-      <div class="research-body"><h3>Hardware-Software Codesign of DNN Accelerators using Approximate Posit Multipliers</h3><p>Approximate posit multipliers and DNN accelerator design, studying the trade-off between numerical accuracy and hardware cost.</p></div>
+      <div class="research-body"><h3>Hardware-Software Codesign of DNN Accelerators using Approximate Posit Multipliers</h3><p>Approximate posit arithmetic and DNN accelerator codesign, connecting compute efficiency with lower storage and data-transfer requirements while evaluating neural-network accuracy.</p></div>
       <a class="text-link" href="{{ '/publications/#posit' | relative_url }}" aria-label="View approximate posit multiplier codesign publication">View publication <span aria-hidden="true">↗</span></a>
     </article>
   </div>
@@ -77,12 +95,12 @@ redirect_from:
   <div class="actions"><a class="button" href="{{ '/talks/' | relative_url }}">All talks and interviews</a><a class="button" href="{{ '/writing/' | relative_url }}">All posts and articles</a></div>
 </section>
 <section class="section container journey" id="about">
-  <div><h2>Background</h2><p class="lead">I grew up in Arunachal Pradesh and studied Electronics and Communication Engineering at NIT Arunachal Pradesh before joining IIT Gandhinagar through the Start Early Ph.D. programme.</p><p>At IIT Gandhinagar, I worked with <a href="https://joycee.people.iitgn.ac.in/">Prof. Joycee Mekie</a> in the nanoDC Lab on in-memory computing and approximate computing. My doctoral work included circuit research, two UMC 65 nm tapeouts, and teaching IC design.</p><p>I submitted my thesis in May 2023, joined Arm in Noida in October 2023, and defended my thesis in June 2024. I now work on SRAM design and characterization, while continuing to write about semiconductors and mentor students.</p><a class="text-link" href="{{ '/cv/' | relative_url }}">View my CV</a></div>
+  <div><h2>Background</h2><p class="lead">I grew up in Arunachal Pradesh and studied Electronics and Communication Engineering at NIT Arunachal Pradesh before joining IIT Gandhinagar through the Start Early Ph.D. programme.</p><p>At IIT Gandhinagar, I worked with <a href="https://joycee.people.iitgn.ac.in/">Prof. Joycee Mekie</a> in the nanoDC Lab on energy-efficient AI hardware. My thesis, <em>Domain-specific hardware design with emphasis on energy efficiency, performance and robustness</em>, brought together approximate computing, posit arithmetic, and in-memory computing. I also taught IC design.</p><p>I submitted my thesis in May 2023, joined Arm in Noida in October 2023, and defended my thesis in June 2024. I now work on SRAM design and characterization, while continuing to write about semiconductors and mentor students.</p><a class="text-link" href="{{ '/cv/' | relative_url }}">View my CV</a></div>
   <div class="timeline">
     <article><time>2023 — Present</time><div><h3>Arm, Noida</h3><p>Senior Design Engineer, Physical IP Group.<br>SRAM circuit design and characterization at advanced technology nodes.</p></div></article>
     <article><time>2018 — 2023</time><div>
       <h3>Ph.D. · IIT Gandhinagar</h3>
-      <p>Electrical Engineering, nanoDC Lab.<br>Start Early Ph.D. programme.<br>Advisor: Prof. Joycee Mekie. Research in in-memory computing and approximate computing.</p>
+      <p>Electrical Engineering, nanoDC Lab.<br>Start Early Ph.D. programme.<br>Advisor: Prof. Joycee Mekie.<br>Research: energy-efficient AI hardware across compute and memory.</p>
       <p class="academic-milestones"><strong>Thesis submitted:</strong> May 2023<br><strong>Thesis defended:</strong> June 2024</p>
       <div class="tags" aria-label="Doctoral fellowships and recognition"><span>PMRF</span><span>Intel India Research Fellow</span><span>SRC Research Scholar</span></div>
     </div></article>

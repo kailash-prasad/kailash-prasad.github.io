@@ -2,9 +2,10 @@
 layout: portfolio
 title: "Tools & expertise"
 permalink: /skills/
-description: "Memory circuit design, characterization, digital implementation, and the tools that connect them."
+description: "AI hardware, approximate arithmetic, SRAM design, digital implementation, and tools for circuit and architectural exploration."
 ---
 <div class="project-grid">
+<article class="project-card"><span class="eyebrow">AI hardware</span><h2>Arithmetic & accelerator design</h2><p>Approximate adders, multipliers, and dividers; posit number representations; and hardware–software codesign for DNN accelerators. Evaluating energy, performance, area, and application accuracy alongside storage and data-transfer requirements.</p><div class="tags"><span>Approximate computing</span><span>Posit arithmetic</span><span>Hardware–software codesign</span></div><a class="text-link" href="{{ '/projects/#compute' | relative_url }}">Compute research</a></article>
 <article class="project-card"><span class="eyebrow">01 / Memory circuits</span><h2>SRAM design & characterization</h2><p>Memory cells, peripheral circuits, sense amplifiers, and memory subsystems. Circuit sizing and simulation with a focus on performance, energy, and reliable operation.</p><div class="tags"><span>Cadence Virtuoso</span><span>Liberate</span><span>Calibre</span><span>Abstract</span></div></article>
 <article class="project-card"><span class="eyebrow">02 / Digital implementation</span><h2>RTL to GDS</h2><p>Experience across logic design, simulation, synthesis, and physical implementation, including two team tapeouts in UMC 65 nm.</p><div class="tags"><span>Design Compiler</span><span>Genus</span><span>VCS</span><span>NCSIM</span><span>Innovus</span><span>Xilinx Vivado</span></div></article>
 <article class="project-card"><span class="eyebrow">03 / Automation</span><h2>Programming & design tools</h2><p>Building simulators, automating EDA workflows, and exploring design spaces through scripting and custom tools.</p><div class="tags"><span>Python</span><span>Verilog</span><span>SystemVerilog</span><span>C</span><span>Tcl</span><span>Bash</span><span>MATLAB</span></div></article>
