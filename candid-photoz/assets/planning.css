@@ -195,3 +195,44 @@ fieldset{min-width:0}
 }
 
 .no-script-note{border:1px solid var(--line);padding:22px;margin-block:25px}.no-script-note a{text-decoration:underline}
+
+/* Photography-led planning entry points and the studio's own camera mark. */
+.brand-logo{display:block;flex:0 0 auto;width:170px;max-width:55%;line-height:0;transition:opacity .2s}
+.brand-logo:hover{opacity:.72}
+.brand-logo img{display:block;width:100%;height:96px;object-fit:cover;object-position:center 41%}
+.footer .brand-logo{width:220px;max-width:100%}
+.footer .brand-logo img{height:124px;max-height:none}
+.site-header{background:var(--paper)}
+.planning-hub{background:#262823;color:#f8f7f3;padding:88px 0 50px;border-bottom:0;isolation:isolate}
+.planning-heading{display:flex;align-items:flex-end;justify-content:space-between;gap:65px;margin-bottom:42px}
+.planning-heading>div{min-width:0}
+.planning-heading .eyebrow{color:#d8c4ae;margin-bottom:22px;font-size:.875rem}
+.planning-heading h2{font-size:clamp(2.6rem,4.1vw,4.5rem);line-height:1.08;letter-spacing:-.035em}
+.planning-heading h2 em{color:#d9b59b}
+.planning-heading>p{color:#d6d8cf;font-size:1rem;line-height:1.85;max-width:345px;flex:0 1 345px;padding-bottom:4px}
+.planning-cards{display:grid;grid-template-columns:1.1fr 1fr 1fr;gap:22px}
+.planning-card{position:relative;display:flex;align-items:flex-end;min-width:0;min-height:485px;overflow:hidden;background:#131510;border:1px solid #ffffff29;isolation:isolate;box-shadow:0 10px 25px #090b0826}
+.planning-card-photo{position:absolute;inset:0;z-index:-3;overflow:hidden}
+.planning-card-photo img{width:100%;height:100%;object-fit:cover;object-position:center;transition:transform .7s ease,filter .7s ease}
+.planning-card:after{content:'';position:absolute;inset:0;z-index:-2;background:linear-gradient(180deg,#0b0e0805 10%,#0b0e0840 33%,#0b0e08d4 66%,#0b0e08f5 100%);transition:background .3s}
+.planning-card-place img{object-position:42% center}
+.planning-card-collection img{object-position:52% center}
+.planning-card-moments img{object-position:61% center}
+.planning-card-content{padding:30px 28px 29px;min-width:0;width:100%}
+.planning-card .planning-card-label{font-size:.8125rem;line-height:1.6;letter-spacing:.045em;color:#ece2d3;margin-bottom:15px}
+.planning-card h3{font-size:clamp(1.8rem,2.45vw,2.6rem);line-height:1.12;letter-spacing:-.025em;color:#fff}
+.planning-card h3 em{color:#dfbfa4}
+.planning-card-content>p:not(.planning-card-label){font-size:.9375rem;line-height:1.75;color:#e6e8de;margin-top:18px;max-width:320px}
+.planning-card-link{font-size:.875rem;display:inline-block;line-height:1.6;margin-top:26px;padding-bottom:6px;border-bottom:1px solid #eee7d775}
+.planning-card:hover .planning-card-photo img,.planning-card:focus-visible .planning-card-photo img{transform:scale(1.045);filter:brightness(1.08)}
+.planning-card:hover .planning-card-link{border-color:#fff}
+.planning-card:focus-visible{outline:3px solid #e2ba96;outline-offset:5px}
+.planning-invitation{display:flex;justify-content:space-between;align-items:center;gap:30px;padding-top:32px;margin-top:32px;border-top:1px solid #f0ead52e}
+.planning-invitation-title{font:1.65rem/1.3 var(--serif);letter-spacing:-.015em}
+.planning-invitation p{color:#c7cabe;font-size:.9375rem;margin-top:8px}
+.planning-invitation .button{background:#e8ded0;color:#262823;border-color:#e8ded0;font-size:.9375rem;flex-shrink:0}
+@media(max-width:1050px){.brand-logo{width:140px}.brand-logo img{height:78px}.planning-heading{gap:35px}.planning-card-content{padding:25px 22px}.planning-cards{gap:16px}.planning-card{min-height:470px}.planning-card h3{font-size:2rem}}
+@media(max-width:800px){.planning-hub{padding-top:65px;padding-bottom:35px}.planning-heading{display:block;margin-bottom:32px}.planning-heading>p{max-width:560px;margin-top:25px}.planning-cards{grid-template-columns:repeat(2,minmax(0,1fr));gap:20px}.planning-card{min-height:425px}.planning-card:first-child{grid-column:1/-1;min-height:380px}.planning-card:first-child .planning-card-content{max-width:440px;padding:30px}.planning-card:first-child:after{background:linear-gradient(90deg,#0b0e08e8,#0b0e089c 53%,#0b0e081a)}.planning-card-place img{object-position:center 55%}.planning-card h3{font-size:2.15rem}}
+@media(max-width:560px){.brand-logo{width:140px;max-width:58%}.brand-logo img{height:78px}.footer .brand-logo{width:210px}.footer .brand-logo img{height:118px}.planning-hub{padding:48px 0 30px}.planning-heading{margin-bottom:28px}.planning-heading .eyebrow{font-size:.8125rem;letter-spacing:.11em;margin-bottom:20px}.planning-heading h2{font-size:clamp(2.35rem,8.9vw,3rem);line-height:1.1}.planning-heading>p{font-size:1rem;line-height:1.8;margin-top:24px}.planning-cards{grid-template-columns:minmax(0,1fr);gap:20px}.planning-card,.planning-card:first-child{min-height:390px;grid-column:auto}.planning-card:first-child .planning-card-content,.planning-card-content{padding:28px 25px;max-width:100%}.planning-card h3{font-size:2.25rem}.planning-card .planning-card-label{font-size:.8125rem;margin-bottom:12px}.planning-card-content>p:not(.planning-card-label){font-size:.9375rem;line-height:1.7;margin-top:16px;max-width:330px}.planning-card-link{margin-top:22px;font-size:.875rem}.planning-card:first-child:after{background:linear-gradient(180deg,#0b0e0805 3%,#0b0e084a 28%,#0b0e08dc 68%,#0b0e08f7)}.planning-card-photo img{object-position:center 35%}.planning-card-place img{object-position:center 42%}.planning-card-collection img{object-position:center 35%}.planning-card-moments img{object-position:60% 28%}.planning-invitation{display:block;padding-top:25px;margin-top:27px}.planning-invitation-title{font-size:1.45rem}.planning-invitation p{font-size:.9375rem}.planning-invitation .button{margin-top:22px;width:100%;text-align:center;min-height:48px}.mobile-enquire{font-size:.875rem;padding:13px 19px;bottom:max(16px,env(safe-area-inset-bottom));right:5%}}
+@media(prefers-reduced-motion:reduce){.planning-card-photo img,.brand-logo{transition:none}.planning-card:hover .planning-card-photo img,.planning-card:focus-visible .planning-card-photo img{transform:none}}
+@media print{.planning-hub{background:white;color:black}.planning-card:after{background:none}.planning-card-photo{display:none}.planning-card{min-height:0;background:white;color:black}.planning-card-content p,.planning-card h3,.planning-card h3 em{color:black}}

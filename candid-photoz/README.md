@@ -94,3 +94,9 @@ The checks cover unknown/invalid costs, duplicate charges, impossible schedules,
 Commit this directory to `kailash-prasad/kailash-prasad.github.io` on `master`. Its existing GitHub Pages workflow publishes `/candid-photoz/`; no root configuration changes are needed.
 
 Before moving the concept to the studio's official domain, obtain approval for branding/media, replace reference packages with approved current terms and add permission-cleared full wedding galleries, actual team portraits/biographies and verified client reviews. Replace preview attribution and noindex/social metadata for the approved domain; supply canonical URLs, sitemap and a privacy notice appropriate to the final data flow. The current independently hosted preview keeps its explanatory banner and noindex metadata.
+
+## Update: photography-led planning section and original logo
+
+The homepage planning entry points now use three photographic cards with readable dark overlays, warmer headings and a clear planner invitation. The responsive grid moves from three cards to two and then one. Reduced-motion preferences disable image zoom transitions. The floating mobile enquiry link stays hidden while the opening or planning section is visible, keeping it clear of card links.
+
+The shared header and footer now display the studio's original camera logo, obtained as a 1600 × 1600 transparent PNG from the logo asset linked on candidphotoz.com. It matches the supplied logo reference; the original artwork is retained. CSS frames its transparent margins for the header. Attribution is recorded in `assets/sources.json`.

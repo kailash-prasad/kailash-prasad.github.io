@@ -68,11 +68,14 @@ pauseMotion?.addEventListener('click', () => { motionPaused = !motionPaused; upd
 mediaQuery.addEventListener('change', () => { motionPaused = mediaQuery.matches; updateMotion(); });
 document.addEventListener('visibilitychange', updateMotion);
 updateMotion();
-// Keep the floating enquiry button clear of the opening photograph controls.
-const opening = document.querySelector('.hero-cinematic');
+// Keep the floating enquiry button clear of the opening and planning-card links.
+const enquiryClearAreas = [...document.querySelectorAll('.hero-cinematic, .planning-hub')];
 const floatingEnquiry = document.querySelector('.mobile-enquire');
-if (opening && floatingEnquiry && 'IntersectionObserver' in window) {
-  new IntersectionObserver(entries => {
-    floatingEnquiry.classList.toggle('hidden-by-hero', entries[0].isIntersecting);
-  }, {threshold: 0.05}).observe(opening);
+if (enquiryClearAreas.length && floatingEnquiry && 'IntersectionObserver' in window) {
+  const visibleAreas = new Set();
+  const observer = new IntersectionObserver(entries => {
+    entries.forEach(entry => { if (entry.isIntersecting) visibleAreas.add(entry.target); else visibleAreas.delete(entry.target); });
+    floatingEnquiry.classList.toggle('hidden-by-hero', visibleAreas.size > 0);
+  }, {threshold: 0});
+  enquiryClearAreas.forEach(area => observer.observe(area));
 }
