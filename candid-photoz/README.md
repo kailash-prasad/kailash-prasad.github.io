@@ -8,7 +8,7 @@ An eight-page static website concept prepared by Kailash Prasad for the photogra
 
 - `index.html`: editorial homepage.
 - `work.html`: 17 photographs, category filters, accessible lightbox and keyboard navigation.
-- `films.html`: five films linked from the photographer's existing portfolio. Cover photographs are representative selections, not asserted film stills.
+- `films.html`: five films played inline and linked from the photographer's existing portfolio. Cover photographs are representative selections, not asserted film stills.
 - `experience.html`: planning and coverage approach.
 - `investment.html`: readable summaries of the published Silver, Gold and Premium packages, plus FAQs.
 - `journal.html`: three original planning articles.
@@ -45,3 +45,10 @@ Obtain approval for the design, media and branding. Add six permission-cleared c
 ## Verification
 
 Check all local page/image links, JavaScript syntax, gallery filtering/viewer and the enquiry draft flow. Browser QA must not send a test enquiry to the photographer. The final host remains the existing GitHub Pages site; no root configuration or existing pages need modification.
+
+
+## Update: cinematic opening, inline films and shoot locations
+
+The homepage now uses four gently moving, crossfading local photographs behind the text. A pause control and reduced-motion preference are supported. All film cover clicks replace that cover with a YouTube player in the same page; no film popup is used. `playsinline=1` is set for mobile playback. The photograph lightbox remains available for still images.
+
+The location showcase contains Kolkata, Dubai, Purulia and Mandarmani, supported by the existing portfolio images and verified film titles. Film destination covers use thumbnails from those exact YouTube uploads. The mobile footer explicitly overrides an inherited column flex direction that previously allowed wrapped footer links to extend the page width.

@@ -1,0 +1,23 @@
+[
+  {
+    "file": "film-kolkata.webp",
+    "source": "https://i.ytimg.com/vi/Tn9kxqJzaZ0/hqdefault.jpg",
+    "width": 480,
+    "height": 360,
+    "bytes": 12328
+  },
+  {
+    "file": "film-purulia.webp",
+    "source": "https://i.ytimg.com/vi/KpC4SUQqzS4/hqdefault.jpg",
+    "width": 480,
+    "height": 360,
+    "bytes": 41448
+  },
+  {
+    "file": "film-mandarmani.webp",
+    "source": "https://i.ytimg.com/vi/vEUvUeFdqCc/hqdefault.jpg",
+    "width": 480,
+    "height": 360,
+    "bytes": 18432
+  }
+]
