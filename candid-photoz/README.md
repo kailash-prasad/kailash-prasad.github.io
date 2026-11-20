@@ -52,3 +52,8 @@ Check all local page/image links, JavaScript syntax, gallery filtering/viewer an
 The homepage now uses four gently moving, crossfading local photographs behind the text. A pause control and reduced-motion preference are supported. All film cover clicks replace that cover with a YouTube player in the same page; no film popup is used. `playsinline=1` is set for mobile playback. The photograph lightbox remains available for still images.
 
 The location showcase contains Kolkata, Dubai, Purulia and Mandarmani, supported by the existing portfolio images and verified film titles. Film destination covers use thumbnails from those exact YouTube uploads. The mobile footer explicitly overrides an inherited column flex direction that previously allowed wrapped footer links to extend the page width.
+
+
+## Update: editorial website copy
+
+Added the approved family-moments introduction, a wedding-season feature, Bengali ritual copy, camera-shy reassurance on the experience page, a location introduction and a warm closing/enquiry invitation. These are original concept passages. No availability/booking scarcity, client anecdotes, review quotations or delivery guarantees were invented. Specific behind-the-photograph stories still require the studio’s real recollections before publication.
