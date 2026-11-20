@@ -5,7 +5,7 @@ toggle?.addEventListener('click',()=>{const open=toggle.getAttribute('aria-expan
 document.addEventListener('keydown',e=>{if(e.key==='Escape'&&nav?.classList.contains('open')){nav.classList.remove('open');toggle.setAttribute('aria-expanded','false');toggle.textContent='Menu';toggle.focus()}});
 const filters=[...document.querySelectorAll('[data-filter]')];
 const photos=[...document.querySelectorAll('[data-photo]')];
-function setFilter(value){filters.forEach(b=>{const selected=b.dataset.filter===value;b.classList.toggle('active',selected);b.setAttribute('aria-pressed',String(selected))});photos.forEach(p=>{p.hidden=value!=='all'&&p.dataset.category!==value});const count=photos.filter(p=>!p.hidden).length;const status=document.querySelector('.filter-count');if(status)status.textContent=`${count} photographs · Select an image to explore`}
+function setFilter(value){filters.forEach(b=>{const selected=b.dataset.filter===value;b.classList.toggle('active',selected);b.setAttribute('aria-pressed',String(selected))});photos.forEach(p=>{p.hidden=value!=='all'&&p.dataset.category!==value;const item=p.closest('.gallery-item');if(item)item.hidden=p.hidden});const count=photos.filter(p=>!p.hidden).length;const status=document.querySelector('.filter-count');if(status)status.textContent=`${count} photographs · Select an image to explore`}
 filters.forEach(b=>b.addEventListener('click',()=>setFilter(b.dataset.filter)));
 if(location.hash==='#prewedding'||location.hash==='#dubai')setFilter('prewedding');
 if(location.hash==='#weddings')setFilter('wedding');
@@ -68,11 +68,6 @@ pauseMotion?.addEventListener('click', () => { motionPaused = !motionPaused; upd
 mediaQuery.addEventListener('change', () => { motionPaused = mediaQuery.matches; updateMotion(); });
 document.addEventListener('visibilitychange', updateMotion);
 updateMotion();
-const form=document.querySelector('#enquiry-form');let preparedMessage='';
-if(form){const collection=new URLSearchParams(location.search).get('collection');if(['Silver','Gold','Premium'].includes(collection))form.elements.collection.value=collection;const today=new Date();const localDate=`${today.getFullYear()}-${String(today.getMonth()+1).padStart(2,'0')}-${String(today.getDate()).padStart(2,'0')}`;form.elements.date.min=localDate;
-form.addEventListener('submit',e=>{e.preventDefault();if(!form.reportValidity())return;const d=new FormData(form);preparedMessage=`Hello Candid Photography! I’d like to enquire about our celebration.\n\nName: ${d.get('name').trim()}\nContact: ${d.get('contact').trim()}\nFirst event: ${d.get('date')}\nCity / location: ${d.get('city').trim()}\nCoverage: ${d.get('service')}\nCollection: ${d.get('collection')}${d.get('guests')?'\nApproximate guests: '+d.get('guests'):''}${d.get('message').trim()?'\n\nOur plans:\n'+d.get('message').trim():''}\n\nPlease confirm availability and share your current quotation.\nEnquiry prepared using Kailash’s independent website preview.`;document.querySelector('#enquiry-preview').textContent=preparedMessage;document.querySelector('#whatsapp-send').href='https://wa.me/917980630085?text='+encodeURIComponent(preparedMessage);const result=document.querySelector('#enquiry-result');result.hidden=false;result.scrollIntoView({behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'instant':'smooth',block:'center'});});
-document.querySelector('#copy-message').addEventListener('click',async()=>{const s=document.querySelector('#copy-status');try{await navigator.clipboard.writeText(preparedMessage);s.textContent='Message copied. Paste it into your preferred messaging app.'}catch{s.textContent='Copy is unavailable here. Select and copy the message above.'}})}
-
 // Keep the floating enquiry button clear of the opening photograph controls.
 const opening = document.querySelector('.hero-cinematic');
 const floatingEnquiry = document.querySelector('.mobile-enquire');
